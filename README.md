@@ -1,10 +1,10 @@
-# Available .ECO One-Word Domains (4,604)
+# Available .ECO One-Word Domains (4,606)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-4%2C606%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C604%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C606%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .eco one-word domains from Unique 
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 4,606 rows · **Live catalog:** 4,604 domains
+**Public extract:** 4,606 rows · **Live catalog:** 4,606 domains
 
 **Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/eco`  
@@ -73,7 +73,7 @@ print(df.head())
 | disney.eco          | available | $64.99    | —             | 82             | 76     | 6      | name.com         |
 | fill.eco            | resell    | —         | —             | 68             | 16     | 4      | GoDaddy.com, LLC |
 | prime.eco           | premium   | $4,375    | —             | 76             | 82     | 5      | name.com         |
-| audible.eco         | available | $101.98   | —             | 80             | 74     | 7      | namecheap        |
+| audible.eco         | available | $101.98   | —             | 80             | 73     | 7      | namecheap        |
 | environmentally.eco | resell    | —         | —             | 56             | 2      | 15     | NameCheap, Inc.  |
 | woo.eco             | premium   | $1,875    | —             | 67             | 82     | 3      | name.com         |
 | omega.eco           | available | $64.99    | —             | 78             | 71     | 5      | name.com         |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 4,606-row public sample | 4,604 live domains                               |
+| 4,606-row public sample | 4,606 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
