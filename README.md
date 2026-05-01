@@ -1,10 +1,10 @@
-# Available .ECO One-Word Domains (9,177)
+# Available .ECO One-Word Domains (9,763)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C177%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C763%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .eco one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,177 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,763 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,177 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,763 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/eco`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| jetpack.eco     | available | $64.99    | —             | 82             | 75     | 8      | name.com  |
-| Tools.eco       | premium   | $10,500   | $80.50        | 56             | 40     | 5      | namecheap |
-| TheBahamas.eco  | available | $101.98   | —             | 70             | 66     | 11     | namecheap |
-| homes.eco       | premium   | $9,375    | —             | 86             | 34     | 5      | name.com  |
-| donuts.eco      | available | $64.99    | —             | 54             | 62     | 6      | name.com  |
-| tickets.eco     | premium   | $4,375    | —             | 64             | 34     | 7      | name.com  |
-| regions.eco     | available | $64.99    | —             | 64             | 59     | 7      | name.com  |
-| videos.eco      | premium   | $9,375    | —             | 52             | 30     | 6      | name.com  |
-| justin.eco      | available | $64.99    | —             | 58             | 38     | 7      | name.com  |
-| advertising.eco | premium   | $9,375    | —             | 80             | 28     | 11     | name.com  |
-| reliability.eco | available | $64.99    | —             | 84             | 33     | 11     | name.com  |
-| engineering.eco | premium   | $4,375    | —             | 78             | 28     | 11     | name.com  |
-| WhiteHouse.eco  | available | $101.98   | —             | 66             | 33     | 11     | namecheap |
-| gems.eco        | premium   | $9,375    | —             | 70             | 28     | 4      | name.com  |
-| yellowpages.eco | available | $64.99    | —             | 78             | 32     | 12     | name.com  |
-| brands.eco      | premium   | $4,375    | —             | 62             | 28     | 6      | name.com  |
-| newage.eco      | available | $64.99    | —             | 56             | 32     | 7      | name.com  |
-| goods.eco       | premium   | $9,375    | —             | 74             | 27     | 5      | name.com  |
-| BlackFriday.eco | available | $101.98   | —             | 74             | 29     | 12     | namecheap |
-| loans.eco       | premium   | $9,375    | —             | 58             | 24     | 5      | name.com  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| jetpack.eco      | available | $64.99    | —             | 82             | 75     | 8      | name.com  |
+| homes.eco        | premium   | $9,375    | —             | 86             | 34     | 5      | name.com  |
+| TheBahamas.eco   | available | $101.98   | —             | 70             | 66     | 11     | namecheap |
+| tickets.eco      | premium   | $4,375    | —             | 64             | 34     | 7      | name.com  |
+| donuts.eco       | available | $64.99    | —             | 54             | 62     | 6      | name.com  |
+| videos.eco       | premium   | $9,375    | —             | 52             | 30     | 6      | name.com  |
+| regions.eco      | available | $64.99    | —             | 64             | 59     | 7      | name.com  |
+| advertising.eco  | premium   | $9,375    | —             | 80             | 28     | 11     | name.com  |
+| justin.eco       | available | $64.99    | —             | 58             | 38     | 7      | name.com  |
+| engineering.eco  | premium   | $4,375    | —             | 78             | 28     | 11     | name.com  |
+| reliability.eco  | available | $64.99    | —             | 84             | 33     | 11     | name.com  |
+| gems.eco         | premium   | $9,375    | —             | 70             | 28     | 4      | name.com  |
+| WhiteHouse.eco   | available | $101.98   | —             | 66             | 33     | 11     | namecheap |
+| brands.eco       | premium   | $4,375    | —             | 62             | 28     | 6      | name.com  |
+| yellowpages.eco  | available | $64.99    | —             | 78             | 32     | 12     | name.com  |
+| goods.eco        | premium   | $9,375    | —             | 74             | 27     | 5      | name.com  |
+| newage.eco       | available | $64.99    | —             | 56             | 32     | 7      | name.com  |
+| loans.eco        | premium   | $9,375    | —             | 58             | 24     | 5      | name.com  |
+| blackdiamond.eco | available | $64.99    | —             | 70             | 29     | 13     | name.com  |
+| plants.eco       | premium   | $4,375    | —             | 75             | 23     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 9,177 live domains                               |
+| 1,000-row public sample | 9,763 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ECO One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ECO One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
