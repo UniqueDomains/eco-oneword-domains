@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .eco one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **9,764 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,764 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,764 domains · **Median ask:** $592.92 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/eco`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| jetpack.eco      | available | $64.99    | —             | 82             | 75     | 8      | name.com  |
-| homes.eco        | premium   | $9,375    | —             | 86             | 34     | 5      | name.com  |
-| TheBahamas.eco   | available | $101.98   | —             | 70             | 66     | 11     | namecheap |
-| tickets.eco      | premium   | $4,375    | —             | 64             | 34     | 7      | name.com  |
-| donuts.eco       | available | $64.99    | —             | 54             | 62     | 6      | name.com  |
-| videos.eco       | premium   | $9,375    | —             | 52             | 30     | 6      | name.com  |
-| regions.eco      | available | $64.99    | —             | 64             | 59     | 7      | name.com  |
-| advertising.eco  | premium   | $9,375    | —             | 80             | 28     | 11     | name.com  |
-| justin.eco       | available | $64.99    | —             | 58             | 38     | 7      | name.com  |
-| engineering.eco  | premium   | $4,375    | —             | 78             | 28     | 11     | name.com  |
-| reliability.eco  | available | $64.99    | —             | 84             | 33     | 11     | name.com  |
-| gems.eco         | premium   | $9,375    | —             | 70             | 28     | 4      | name.com  |
-| WhiteHouse.eco   | available | $101.98   | —             | 66             | 33     | 11     | namecheap |
-| brands.eco       | premium   | $4,375    | —             | 62             | 28     | 6      | name.com  |
-| yellowpages.eco  | available | $64.99    | —             | 78             | 32     | 12     | name.com  |
-| goods.eco        | premium   | $9,375    | —             | 74             | 27     | 5      | name.com  |
-| newage.eco       | available | $64.99    | —             | 56             | 32     | 7      | name.com  |
-| loans.eco        | premium   | $9,375    | —             | 58             | 24     | 5      | name.com  |
-| blackdiamond.eco | available | $64.99    | —             | 70             | 29     | 13     | name.com  |
-| plants.eco       | premium   | $4,375    | —             | 75             | 23     | 6      | name.com  |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Trex.eco        | available | $101.98   | —             | 80             | 24     | 5      | namecheap |
+| Laura.eco       | available | $101.98   | —             | 84             | 28     | 5      | namecheap |
+| LGBTQ.eco       | premium   | —         | —             | 86             | 17     | 5      | —         |
+| Fanta.eco       | available | $101.98   | —             | 88             | 17     | 5      | namecheap |
+| geton.eco       | available | $64.99    | —             | 82             | 10     | 6      | name.com  |
+| jetpack.eco     | available | $64.99    | —             | 82             | 75     | 8      | name.com  |
+| homes.eco       | premium   | $9,375    | —             | 86             | 34     | 5      | name.com  |
+| TheBahamas.eco  | available | $101.98   | —             | 70             | 66     | 11     | namecheap |
+| tickets.eco     | premium   | $4,375    | —             | 64             | 34     | 7      | name.com  |
+| donuts.eco      | available | $64.99    | —             | 54             | 62     | 6      | name.com  |
+| videos.eco      | premium   | $9,375    | —             | 52             | 30     | 6      | name.com  |
+| regions.eco     | available | $64.99    | —             | 64             | 59     | 7      | name.com  |
+| advertising.eco | premium   | $9,375    | —             | 80             | 28     | 11     | name.com  |
+| justin.eco      | available | $64.99    | —             | 58             | 38     | 7      | name.com  |
+| engineering.eco | premium   | $4,375    | —             | 78             | 28     | 11     | name.com  |
+| reliability.eco | available | $64.99    | —             | 84             | 33     | 11     | name.com  |
+| gems.eco        | premium   | $9,375    | —             | 70             | 28     | 4      | name.com  |
+| WhiteHouse.eco  | available | $101.98   | —             | 66             | 33     | 11     | namecheap |
+| brands.eco      | premium   | $4,375    | —             | 62             | 28     | 6      | name.com  |
+| yellowpages.eco | available | $64.99    | —             | 78             | 32     | 12     | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 9,764 live domains                               |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 9,764 live domains                         |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are all one-word names on the .eco extension. The set includes dictionary words, personal names, place names, and strings that may overlap with established brands. That mix matters. For founders, the best candidates are clear, memorable, and easy to explain without leaning on another company’s reputation. For investors, the key is whether the ask leaves room for resale after renewal costs and whether the word has broad relevance beyond a narrow niche. With a median ask of 592.92, pricing is accessible enough to compare on quality, but the extension itself makes fit and risk discipline especially important.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize clean words with broad meaning and easy recall
+- Check trademark exposure on names like Audi.eco or Sony.eco
+- Compare ask against likely renewal before judging value
+- Place names and first names can be memorable but narrower
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ECO One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ECO One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
