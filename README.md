@@ -66,7 +66,7 @@ print(df.head())
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | Trex.eco        | available | $101.98   | —             | 80             | 24     | 5      | namecheap |
 | Laura.eco       | available | $101.98   | —             | 84             | 28     | 5      | namecheap |
-| LGBTQ.eco       | premium   | —         | —             | 86             | 17     | 5      | —         |
+| LGBTQ.eco       | premium   | —         | —             | 86             | 20     | 5      | —         |
 | Fanta.eco       | available | $101.98   | —             | 88             | 17     | 5      | namecheap |
 | geton.eco       | available | $64.99    | —             | 82             | 10     | 6      | name.com  |
 | jetpack.eco     | available | $64.99    | —             | 82             | 75     | 8      | name.com  |
