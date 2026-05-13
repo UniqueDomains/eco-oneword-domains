@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .eco one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 9,764 domains · **Median ask:** $592.92 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-11  
+**Last updated:** 2026-05-13  
 **Canonical page:** `https://unique.domains/domains/tld/eco`  
 **Best for:** founders, investors, studios
 
@@ -65,13 +65,13 @@ print(df.head())
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | Trex.eco        | available | $101.98   | —             | 80             | 24     | 5      | namecheap |
-| Laura.eco       | available | $101.98   | —             | 84             | 28     | 5      | namecheap |
+| Laura.eco       | available | $101.98   | —             | 84             | 29     | 5      | namecheap |
 | LGBTQ.eco       | premium   | —         | —             | 86             | 20     | 5      | —         |
 | Fanta.eco       | available | $101.98   | —             | 88             | 17     | 5      | namecheap |
 | geton.eco       | available | $64.99    | —             | 82             | 10     | 6      | name.com  |
 | jetpack.eco     | available | $64.99    | —             | 82             | 75     | 8      | name.com  |
 | homes.eco       | premium   | $9,375    | —             | 86             | 34     | 5      | name.com  |
-| TheBahamas.eco  | available | $101.98   | —             | 70             | 66     | 11     | namecheap |
+| TheBahamas.eco  | available | $101.98   | —             | 70             | 69     | 11     | namecheap |
 | tickets.eco     | premium   | $4,375    | —             | 64             | 34     | 7      | name.com  |
 | donuts.eco      | available | $64.99    | —             | 54             | 62     | 6      | name.com  |
 | videos.eco      | premium   | $9,375    | —             | 52             | 30     | 6      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ECO One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ECO One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
