@@ -78,11 +78,11 @@ print(df.head())
 | regions.eco     | available | $64.99    | —             | 64             | 59     | 7      | name.com  |
 | advertising.eco | premium   | $9,375    | —             | 80             | 28     | 11     | name.com  |
 | justin.eco      | available | $64.99    | —             | 58             | 38     | 7      | name.com  |
-| engineering.eco | premium   | $4,375    | —             | 78             | 28     | 11     | name.com  |
-| reliability.eco | available | $64.99    | —             | 84             | 33     | 11     | name.com  |
 | gems.eco        | premium   | $9,375    | —             | 70             | 28     | 4      | name.com  |
-| WhiteHouse.eco  | available | $101.98   | —             | 66             | 33     | 11     | namecheap |
+| reliability.eco | available | $64.99    | —             | 84             | 34     | 11     | name.com  |
 | brands.eco      | premium   | $4,375    | —             | 62             | 28     | 6      | name.com  |
+| WhiteHouse.eco  | available | $101.98   | —             | 66             | 33     | 11     | namecheap |
+| engineering.eco | premium   | $4,375    | —             | 78             | 27     | 11     | name.com  |
 | yellowpages.eco | available | $64.99    | —             | 78             | 32     | 12     | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
