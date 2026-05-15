@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .eco one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 9,764 domains · **Median ask:** $592.92 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/tld/eco`  
 **Best for:** founders, investors, studios
 
@@ -76,14 +76,14 @@ print(df.head())
 | donuts.eco      | available | $64.99    | —             | 54             | 62     | 6      | name.com  |
 | videos.eco      | premium   | $9,375    | —             | 52             | 30     | 6      | name.com  |
 | regions.eco     | available | $64.99    | —             | 64             | 59     | 7      | name.com  |
-| advertising.eco | premium   | $9,375    | —             | 80             | 28     | 11     | name.com  |
-| justin.eco      | available | $64.99    | —             | 58             | 38     | 7      | name.com  |
 | gems.eco        | premium   | $9,375    | —             | 70             | 28     | 4      | name.com  |
-| reliability.eco | available | $64.99    | —             | 84             | 34     | 11     | name.com  |
+| justin.eco      | available | $64.99    | —             | 58             | 38     | 7      | name.com  |
 | brands.eco      | premium   | $4,375    | —             | 62             | 28     | 6      | name.com  |
-| WhiteHouse.eco  | available | $101.98   | —             | 66             | 33     | 11     | namecheap |
+| reliability.eco | available | $64.99    | —             | 84             | 34     | 11     | name.com  |
 | engineering.eco | premium   | $4,375    | —             | 78             | 27     | 11     | name.com  |
-| yellowpages.eco | available | $64.99    | —             | 78             | 32     | 12     | name.com  |
+| goods.eco       | premium   | $9,375    | —             | 74             | 27     | 5      | name.com  |
+| quotes.eco      | available | $64.99    | —             | 58             | 29     | 6      | name.com  |
+| advertising.eco | premium   | $9,375    | —             | 80             | 24     | 11     | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ECO One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ECO One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
