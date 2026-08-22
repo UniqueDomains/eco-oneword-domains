@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .eco one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,383 domains · **Median ask:** $379.87 · **High-demand under $2,500:** 15
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/tld/eco`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,6 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| damn.eco    | available | $69.99    | $113.99       | high           | low    | 4      | name.com    |
-| simple.eco  | premium   | $9,375    | $113.99       | high           | medium | 6      | name.com    |
-| easy.eco    | premium   | $9,375    | $113.99       | high           | medium | 4      | name.com    |
 | ago.eco     | available | $69.99    | $113.99       | medium         | low    | 3      | name.com    |
 | diamond.eco | resell    | —         | —             | high           | low    | 7      | Porkbun LLC |
 | all.eco     | premium   | $4,375    | $113.99       | high           | medium | 3      | name.com    |
@@ -84,6 +81,9 @@ print(df.head())
 | bud.eco     | premium   | $1,875    | —             | high           | low    | 3      | name.com    |
 | let.eco     | available | $64.99    | —             | high           | low    | 3      | name.com    |
 | cod.eco     | premium   | $4,375    | —             | medium         | low    | 3      | name.com    |
+| lie.eco     | available | $64.99    | —             | medium         | low    | 3      | name.com    |
+| die.eco     | premium   | $625      | —             | medium         | low    | 3      | name.com    |
+| mao.eco     | available | $64.99    | —             | medium         | low    | 3      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ECO One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ECO One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
