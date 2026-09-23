@@ -3,22 +3,22 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 ff5ffbd9-e090-49e8-ba7f-d42774a08dce,bore.eco,available,69.99,113.99,high,low,4,name.com,,,
 c600de52-1b02-4d8e-8532-972c69783d09,deliver.eco,premium,4375,,high,low,7,name.com,,,
 7c71fb23-fc43-41d3-b18f-b0176d9b649e,comeout.eco,available,64.99,,high,low,8,name.com,,,
-18b9ea64-4e31-40ca-87f1-337e300563df,bacterial.eco,premium,64.99,,high,low,9,name.com,,,
+18b9ea64-4e31-40ca-87f1-337e300563df,bacterial.eco,available,74.99,113.99,low,low,9,name.com,,,22/09/2026 16:00
 9b7a96a3-e724-4d72-a5ad-f46ed291632f,teamwork.eco,available,64.99,,high,low,8,name.com,,,
 a5edebd3-1e73-48f2-9ce4-c7b48f734e85,diversify.eco,available,64.99,,high,low,9,name.com,,,
 48400873-b9e1-4df8-8dcb-7927beff7d2c,book.eco,premium,9375,,high,medium,4,name.com,,,
 0e2d7306-8cbe-49f5-b14c-e4593b410701,bridges.eco,available,64.99,,high,low,7,name.com,,,
 1deaa741-a195-43e5-8954-4e1d03652d1d,roast.eco,available,64.99,,high,low,5,name.com,,,
-3df8ded3-41ff-44f9-9ec7-24c1319efc60,armed.eco,premium,64.99,,high,low,5,name.com,,,
+3df8ded3-41ff-44f9-9ec7-24c1319efc60,armed.eco,available,58.48,101.98,low,low,5,namecheap,,,22/09/2026 07:55
 5505ea71-94e3-4433-86fb-e448b274e894,hence.eco,available,64.99,,medium,low,5,name.com,,,
-8fdc8cb5-24a6-4faf-90f8-eb478d5ab88f,weakened.eco,premium,64.99,,medium,low,8,name.com,,,
-7af69c17-ac9b-4645-9d72-5fac49fc95e1,futile.eco,premium,64.99,,medium,low,6,name.com,,,
+8fdc8cb5-24a6-4faf-90f8-eb478d5ab88f,weakened.eco,available,58.48,101.98,low,low,8,namecheap,,,22/09/2026 11:29
+7af69c17-ac9b-4645-9d72-5fac49fc95e1,futile.eco,available,58.48,101.98,low,low,6,namecheap,,,22/09/2026 23:49
 03360d5e-7ef6-46b7-90b6-9cb719cfa695,atatime.eco,available,64.99,,medium,low,9,name.com,,,
-d6c6ce38-007f-4dca-a2a0-0713e848bf3b,heavy.eco,premium,64.99,,high,low,5,name.com,,,
+d6c6ce38-007f-4dca-a2a0-0713e848bf3b,heavy.eco,available,74.99,113.99,medium,low,5,name.com,,,22/09/2026 07:40
 543269ec-cc72-4485-ae5f-5e544e06251e,candidate.eco,available,64.99,,high,low,9,name.com,,,
-059f5d92-3103-43d6-b4c9-c66658650186,blonde.eco,premium,64.99,,high,low,6,name.com,,,
+059f5d92-3103-43d6-b4c9-c66658650186,blonde.eco,available,58.48,101.98,medium,low,6,namecheap,,,22/09/2026 22:17
 029693ae-936a-4078-abcc-3b6333e1e30e,pandabear.eco,available,64.99,,high,low,10,name.com,,,
-3a116a5e-a25e-46f4-96fd-2b80d39a532f,decade.eco,available,64.99,,high,low,6,name.com,,,
+3a116a5e-a25e-46f4-96fd-2b80d39a532f,decade.eco,available,74.99,113.99,medium,low,6,name.com,,,21/09/2026 10:56
 b8bb5e18-48af-4c7e-928b-8c3a4fa4a3ef,lorry.eco,available,64.99,,high,low,5,name.com,,,
 dc721c21-f9f5-43cc-aa08-a83897c99f53,internationally.eco,available,64.99,,medium,low,15,name.com,,,
 774e7358-015f-4c71-902b-7615efee56c7,preference.eco,available,64.99,,high,low,10,name.com,,,
@@ -35,7 +35,7 @@ c252c805-c691-46ee-9ce9-bb53a27ede92,innocence.eco,available,64.99,,high,low,9,n
 0a81c64e-62e7-484d-a939-74f778aee0fe,lick.eco,available,64.99,,medium,low,4,name.com,,,
 380cc3ca-fd9a-404b-8156-aa3fe227b997,shelter.eco,premium,4375,,high,low,7,name.com,,,
 87d5001e-68da-4eb7-8fe6-f908786acb96,negotiate.eco,available,64.99,,high,low,9,name.com,,,
-a31b23ce-dbd5-4f60-b867-e12c8a0fe5d3,binary.eco,premium,64.99,,high,low,6,name.com,,,
+a31b23ce-dbd5-4f60-b867-e12c8a0fe5d3,binary.eco,available,58.48,101.98,medium,low,6,namecheap,,,22/09/2026 20:45
 7b59568a-3c0f-4752-a7cc-17952284210d,actually.eco,available,64.99,,high,low,8,name.com,,,
 77af41d0-ed41-49bc-aaae-eb1dd97b25ab,curl.eco,available,64.99,,medium,low,4,name.com,,,
 2ecad252-ef95-406f-b060-00d42bb13cf8,folder.eco,available,64.99,,high,low,6,name.com,,,
@@ -51,8 +51,8 @@ b6ff4d7b-04be-49cc-884c-0bbeb2e90046,dye.eco,available,64.99,,medium,low,3,name.
 ad06db14-3e19-4fcc-881e-91fde4bd69ee,skill.eco,premium,1875,,high,medium,5,name.com,,,
 fd28b3d4-5f07-4402-85d6-5d49cf33cd0c,focus.eco,premium,4535.05,74.75,medium,low,5,namecheap,,,19/09/2026 06:53
 546d9688-4202-413f-915e-cd344eda6b79,increased.eco,available,64.99,,high,low,9,name.com,,,
-0aa3b220-56a9-4410-89f2-afd3d8cd3086,enticing.eco,available,69.99,113.99,high,low,8,name.com,,,
-64003833-7684-47d8-b7ba-2c317c73cdbb,bloody.eco,available,69.99,113.99,high,low,6,name.com,,,
+0aa3b220-56a9-4410-89f2-afd3d8cd3086,enticing.eco,available,58.48,101.98,medium,low,8,namecheap,,,22/09/2026 01:41
+64003833-7684-47d8-b7ba-2c317c73cdbb,bloody.eco,available,58.48,101.98,low,low,6,namecheap,,,22/09/2026 00:33
 0ff93530-c0be-4d06-9ac0-0831cbdcb539,atpeace.eco,available,64.99,,high,low,8,name.com,,,
 fc27a375-7e36-46cd-a04e-efaf87cc2218,morethan.eco,available,64.99,,high,low,9,name.com,,,
 fa1183e3-dfaf-4bce-b4d4-9872e0018e21,ugh.eco,available,64.99,,medium,low,3,name.com,,,
@@ -68,16 +68,16 @@ cc62ea55-c149-41b0-925d-f4c8ba530bb3,favourable.eco,premium,64.99,,high,low,10,n
 f1ad05d4-73bc-4f25-9142-4a3e5f729779,briefs.eco,available,64.99,,high,low,6,name.com,,,
 740d020d-0b2b-4a4f-8afd-f2397e7eb454,solong.eco,available,64.99,,medium,low,7,name.com,,,
 75604f3f-64a6-4d7e-aaec-ac552568a4aa,ale.eco,available,64.99,,medium,low,3,name.com,,,
-9cf355de-e45c-4f70-9ee4-2d0fe03693a8,faded.eco,premium,64.99,,medium,low,5,name.com,,,
+9cf355de-e45c-4f70-9ee4-2d0fe03693a8,faded.eco,available,58.48,101.98,low,low,5,namecheap,,,22/09/2026 11:25
 8b2f6897-0e24-48b7-bb93-ed54278cab44,cryout.eco,available,64.99,,high,low,7,name.com,,,
 ddb89de4-21c2-43b4-bf62-2a1bf8ffd314,vigor.eco,available,64.99,,high,low,5,name.com,,,
 de69ddae-85b4-4998-8cd2-94c296372254,smell.eco,available,64.99,,high,low,5,name.com,,,
-7fb5132e-82b2-4983-ba48-0dc24cdec9a8,automotive.eco,premium,9375,,high,low,10,name.com,,,
+7fb5132e-82b2-4983-ba48-0dc24cdec9a8,automotive.eco,premium,9735.05,74.75,medium,low,10,namecheap,,,22/09/2026 14:07
 4cf5f081-aecd-46dd-b524-5b26ad089b94,humane.eco,premium,625,,high,low,6,name.com,,,
 0d89b713-deee-4fed-9ba6-94456aa858aa,evolve.eco,premium,4375,,high,low,6,name.com,,,
 c35765f2-ccbc-4368-9caf-c4237fca0a98,turmeric.eco,available,58.48,101.98,medium,low,8,namecheap,,,19/09/2026 15:28
 308ff487-4c40-4d74-a1a1-ba2ebf0c9db1,disney.eco,available,64.99,,high,high,6,name.com,,,
-95e537b7-eb8f-43c4-a44f-c33b8f5201c5,whatever.eco,premium,64.99,,high,low,8,name.com,,,
+95e537b7-eb8f-43c4-a44f-c33b8f5201c5,whatever.eco,available,58.48,101.98,medium,low,8,namecheap,,,22/09/2026 06:56
 31ba3978-0276-4009-8a5c-fedf78f913da,asking.eco,available,64.99,,high,low,6,name.com,,,
 a93ef9b8-8b44-41db-a7cc-7bc9dcd44fd5,orange.eco,premium,625,,high,high,6,name.com,,,
 bd1fff93-babf-4b9a-aebb-ca93970836cf,oversight.eco,available,64.99,,high,low,9,name.com,,,
@@ -90,8 +90,8 @@ c150c117-6228-4d37-ae4a-964b4e0b5016,worm.eco,premium,625,,medium,low,4,name.com
 c4cfab2c-f82a-41f7-a9cd-d72c26012d50,heads.eco,available,64.99,,high,low,5,name.com,,,
 99144edb-8665-429a-9597-45970e57aa63,spirit.eco,premium,625,,high,low,6,name.com,,,
 ef7f0fa6-181a-441f-9f8f-d37cfdd43b73,anywhere.eco,available,64.99,,high,low,8,name.com,,,
-f92d84dc-7a2f-4488-90d6-c39b07f63b2f,eight.eco,premium,69.99,113.99,high,low,5,name.com,,,
-09bd7028-193c-4008-8da8-bfca98625f61,bold.eco,premium,9375,,high,low,4,name.com,,,
+f92d84dc-7a2f-4488-90d6-c39b07f63b2f,eight.eco,premium,635.05,74.75,medium,low,5,namecheap,,,21/09/2026 13:20
+09bd7028-193c-4008-8da8-bfca98625f61,bold.eco,premium,9735.05,74.75,low,low,4,namecheap,,,22/09/2026 23:09
 4dbe7e19-3da7-4f93-a443-b3d86e431d7d,moderation.eco,available,64.99,,high,low,10,name.com,,,
 7ed4c272-7480-4eb7-8dd1-d4bfce0cd956,surfer.eco,premium,625,,high,low,6,name.com,,,
 5a2b7b1f-9428-4499-9563-900025f18740,secret.eco,premium,1875,,high,medium,6,name.com,,,
@@ -108,7 +108,7 @@ f21e71fd-5931-49f3-abd9-ea73ed268933,zooming.eco,available,64.99,,high,low,7,nam
 7863b716-ad38-454f-add7-7ab3f993a793,malaria.eco,available,64.99,,medium,low,7,name.com,,,
 0fdc0e8d-b45e-4ca1-bf4f-9788a3eb4859,hannukah.eco,available,64.99,,high,low,8,name.com,,,
 5430b568-2ff9-4e66-b690-680bc04363dd,pizzeria.eco,available,64.99,,high,low,8,name.com,,,
-e3f83dd7-4703-4027-8114-a5db54705d54,absorbed.eco,available,69.99,113.99,high,low,8,name.com,,,
+e3f83dd7-4703-4027-8114-a5db54705d54,absorbed.eco,available,58.48,101.98,medium,low,8,namecheap,,,21/09/2026 14:58
 c8000779-dd3a-4a60-8d78-d6d029a22487,virtually.eco,available,64.99,,medium,low,9,name.com,,,
 013ce7ed-fd0e-4db9-8147-59dcff17ff33,observer.eco,available,64.99,,high,low,8,name.com,,,
 0917be9e-ac59-470e-8a29-01f706e0d704,poisoning.eco,available,64.99,,medium,low,9,name.com,,,
@@ -120,11 +120,11 @@ c8000779-dd3a-4a60-8d78-d6d029a22487,virtually.eco,available,64.99,,medium,low,9
 f50d9918-1471-4372-b975-1aba75c6025d,bakery.eco,premium,4375,,high,low,6,name.com,,,
 3a085b78-6f64-45b4-b4be-3ae961d03635,canon.eco,available,58.48,101.98,low,low,5,namecheap,,,19/09/2026 11:56
 6d0e1817-78bc-4370-a4af-8eeb74757ff2,attainable.eco,available,58.48,101.98,medium,low,10,namecheap,,,19/09/2026 04:15
-658e9fa1-cabd-4d99-9317-4d811f08a2aa,quick.eco,premium,4375,113.99,high,medium,5,name.com,,,
+658e9fa1-cabd-4d99-9317-4d811f08a2aa,quick.eco,premium,4535.05,74.75,low,low,5,namecheap,,,21/09/2026 23:09
 3a5f3be7-3313-4572-9e23-830f5bda6d2b,compete.eco,available,64.99,,high,low,7,name.com,,,
 deeee098-8d75-4332-b966-932b5b4a8e52,west.eco,premium,1875,,medium,low,4,name.com,,,
 b367a9bb-eb1d-4bc8-9ad8-5acb34e097dd,camping.eco,premium,9375,,high,low,7,name.com,,,
-58bac14c-7d5b-4e1e-b6f7-30763a1958be,closeto.eco,available,69.99,113.99,medium,low,8,name.com,,,
+58bac14c-7d5b-4e1e-b6f7-30763a1958be,closeto.eco,available,74.99,113.99,low,low,8,name.com,,,21/09/2026 14:09
 4a1e4405-01fe-4439-bc3c-c25c552cefd2,closely.eco,available,64.99,,medium,low,7,name.com,,,
 81069c26-9f57-4b85-a5a4-29e36fca493b,maximum.eco,available,64.99,,high,low,7,name.com,,,
 8f01b709-f9b0-4faa-bd88-6eac68b7b896,epidemic.eco,premium,64.99,,medium,low,8,name.com,,,
@@ -133,7 +133,7 @@ b367a9bb-eb1d-4bc8-9ad8-5acb34e097dd,camping.eco,premium,9375,,high,low,7,name.c
 a7a2ec1e-2514-469b-a4bb-223ddc4b8ba4,musiccentre.eco,available,64.99,,high,low,12,name.com,,,
 56dfc98b-f29a-48eb-b6ef-1282b07ba409,telloff.eco,available,64.99,,medium,low,8,name.com,,,
 1c03523f-78ae-4041-b6ff-0b8610d3015e,switch.eco,premium,9375,,high,medium,6,name.com,,,
-473f0370-04b1-4741-9c5c-d24e38c8cc9a,adored.eco,available,69.99,113.99,high,low,6,name.com,,,
+473f0370-04b1-4741-9c5c-d24e38c8cc9a,adored.eco,available,58.48,101.98,low,low,6,namecheap,,,21/09/2026 19:35
 ae49e648-5612-4e6e-a5e2-a653245efa48,giraffe.eco,available,64.99,,high,low,7,name.com,,,
 6b1c14b5-d16a-400f-9c4f-fa25ee217f7b,educate.eco,premium,4375,,high,low,7,name.com,,,
 9637e66a-dda6-4c81-8036-3244f34cde49,mario.eco,available,64.99,,high,low,5,name.com,,,
@@ -185,14 +185,14 @@ ced5565a-7335-4fab-9afd-2c991d1590f7,crafty.eco,available,69.99,113.99,medium,lo
 362bbe1b-e110-4089-ac98-5569dbc04c45,pail.eco,available,64.99,,high,low,4,name.com,,,
 05f22b1f-c927-4aa3-82c4-6e61ce307071,undergraduate.eco,available,64.99,,medium,low,13,name.com,,,
 716449d2-1384-4838-a24e-d8b366228b59,enrich.eco,available,64.99,,high,low,6,name.com,,,
-a0510a42-676f-42e8-8c92-8a5b313a8546,acting.eco,available,69.99,113.99,high,low,6,name.com,,,
+a0510a42-676f-42e8-8c92-8a5b313a8546,acting.eco,available,58.48,101.98,low,low,6,namecheap,,,21/09/2026 16:22
 5b083fb9-95d5-4681-9d6a-c8f79389c6f8,nebraska.eco,premium,625,,medium,low,8,name.com,,,
 00b157a6-be70-4c16-ac15-327ec9c21f3b,rock.eco,premium,625,,high,low,4,name.com,,,
 544f9c47-0699-4db4-a095-688b2bba2c77,watson.eco,available,64.99,,high,medium,6,name.com,,,
 61ae18f6-64d7-49a0-91cf-98a1b4eaa55f,intro.eco,premium,9375,,high,low,5,name.com,,,
 3e8a9e76-778c-45e2-a098-b3c6a437b507,motivation.eco,available,64.99,,high,low,10,name.com,,,
 c2d86767-e609-4656-9379-41a25e112930,entitled.eco,premium,64.99,,high,low,8,name.com,,,
-22818c4d-608b-4e60-be83-a84ca05b006c,asteroid.eco,premium,64.99,,high,low,8,name.com,,,
+22818c4d-608b-4e60-be83-a84ca05b006c,asteroid.eco,available,58.48,101.98,medium,low,8,namecheap,,,22/09/2026 10:17
 23ea9419-c814-4d52-909d-a39cdf87f44b,owens.eco,available,64.99,,medium,low,5,name.com,,,
 f365acbf-a31e-4239-bf89-53172d171b5e,html.eco,available,64.99,,high,low,4,name.com,,,
 8f5c4dba-fc8f-40cc-83fc-c6309bd5ba07,video.eco,premium,9735.05,74.75,medium,low,5,namecheap,,,19/09/2026 06:19
@@ -201,15 +201,15 @@ f365acbf-a31e-4239-bf89-53172d171b5e,html.eco,available,64.99,,high,low,4,name.c
 4be35246-b380-4304-b89f-76929c9da91a,fascinate.eco,available,64.99,,high,low,9,name.com,,,
 8df7e17b-2ba9-4dfb-a5df-867be76eb385,glory.eco,available,64.99,,high,low,5,name.com,,,
 f848e603-058a-49ba-889e-90ccd9f2c6cf,sip.eco,available,64.99,,high,low,3,name.com,,,
-157e5e62-0c0e-4143-b76f-ae5ba655dbc0,doable.eco,available,69.99,113.99,high,low,6,name.com,,,
+157e5e62-0c0e-4143-b76f-ae5ba655dbc0,doable.eco,available,58.48,101.98,medium,low,6,namecheap,,,21/09/2026 15:46
 7569fb30-e3ed-4f4e-a1db-e8d22d027f49,comic.eco,premium,64.99,,high,low,5,name.com,,,
 bb086bec-f47d-426d-a908-d7548b693ae8,writing.eco,available,64.99,,high,low,7,name.com,,,
 1d9a1dd7-d320-4636-9833-6793bd400c43,bravo.eco,premium,625,,medium,medium,5,name.com,,,
 f2d1965e-44d5-4d8b-adfb-bd4233ea1e7c,contact.eco,premium,9375,,high,medium,7,name.com,,,
 76877c2b-988c-4e83-80da-9b6760a16608,heatup.eco,available,64.99,,high,low,7,name.com,,,
 50b13194-03eb-4ee5-ae40-ebcc20294c55,identify.eco,available,64.99,,high,low,8,name.com,,,
-d93dfa6a-19ee-4b4d-8842-8f08f3492588,answering.eco,premium,64.99,,high,low,9,name.com,,,
-9d844c73-c384-469d-b4c8-324e9a8439fc,awkward.eco,premium,64.99,,high,low,7,name.com,,,
+d93dfa6a-19ee-4b4d-8842-8f08f3492588,answering.eco,available,58.48,101.98,medium,low,9,namecheap,,,22/09/2026 05:38
+9d844c73-c384-469d-b4c8-324e9a8439fc,awkward.eco,available,58.48,101.98,low,low,7,namecheap,,,22/09/2026 15:31
 3ad116c9-c843-46c2-a3d9-8fdd9b2b17d5,firstly.eco,premium,64.99,,medium,low,7,name.com,,,
 8eb54acc-f0af-419d-bc0e-8b7f640daac9,clinically.eco,available,64.99,,medium,low,10,name.com,,,
 8df019b3-2336-466f-926b-c5c5e58793a8,casual.eco,premium,64.99,,high,low,6,name.com,,,
@@ -221,7 +221,7 @@ d2190906-1bfe-4626-b961-c5ed4869771e,searchbox.eco,available,64.99,,high,low,10,
 5172cb7b-810f-469e-b522-dee7c6e33b62,cube.eco,premium,625,,high,medium,4,name.com,,,
 626e4c22-12a8-4fd5-adab-85f3141ecf3d,harmony.eco,premium,1875,,high,low,7,name.com,,,
 00261ffb-c3ac-4e8d-8218-cc98cb91a3db,getat.eco,available,64.99,,high,low,6,name.com,,,
-1dd7eb49-cc30-4760-8a0d-78cc620f1146,booted.eco,premium,64.99,,medium,low,6,name.com,,,
+1dd7eb49-cc30-4760-8a0d-78cc620f1146,booted.eco,available,58.48,101.98,low,low,6,namecheap,,,22/09/2026 23:43
 e9509814-7ee7-4c74-b5bd-faccc26567dd,stat.eco,available,64.99,,high,low,4,name.com,,,
 cbbde742-d291-4fff-a37d-9639d63d2283,closest.eco,available,64.99,,medium,low,7,name.com,,,
 ae636086-b40a-41ea-88fd-b447210983cc,dose.eco,available,64.99,,high,low,4,name.com,,,
@@ -236,7 +236,7 @@ fc0049c1-b617-4624-ae16-c7dcdc05cd2f,respected.eco,available,64.99,,high,low,9,n
 bd526239-81fb-416e-b67e-428b0f629a40,impress.eco,available,64.99,,high,low,7,name.com,,,
 0ca21ea6-f995-4fd9-b06a-e235f14f93d0,truly.eco,premium,625,,high,low,5,name.com,,,
 768b9e7a-8f10-4cb4-ad01-885c8cfd0286,wonderfully.eco,available,64.99,,high,low,11,name.com,,,
-bccfebcf-fb8a-43dd-b99b-282413fd1ab3,average.eco,premium,64.99,,high,low,7,name.com,,,
+bccfebcf-fb8a-43dd-b99b-282413fd1ab3,average.eco,available,58.48,101.98,medium,low,7,namecheap,,,22/09/2026 14:28
 d9dbaaf2-f1f0-4ff5-89be-90a6fd07fc37,humourous.eco,available,64.99,,high,low,9,name.com,,,
 eaed4658-240c-45b0-b2e7-21f6e50e67dc,signal.eco,premium,9375,,high,medium,6,name.com,,,
 5aee1bee-0b59-4b8c-8dea-d74d0464ea68,vary.eco,available,64.99,,high,low,4,name.com,,,
@@ -247,24 +247,24 @@ ae4b6c21-f223-4c79-a0d1-b5d937e0fef9,committee.eco,available,64.99,,medium,low,9
 4cd4ae6f-d4f1-435b-9753-b6edffe44356,taxreturn.eco,available,64.99,,medium,low,10,name.com,,,
 fb416565-ab01-466e-a112-086414410e49,chew.eco,available,64.99,,medium,low,4,name.com,,,
 d91e530c-ddd9-47fc-a36b-99de75d1340d,twine.eco,available,64.99,,medium,low,5,name.com,,,
-093669b4-1085-45bf-99a3-57560322ed2d,automated.eco,premium,64.99,,high,low,9,name.com,,,
-1f0f1bc6-d1a0-4e9a-9bb1-1c066edeb800,blunt.eco,premium,64.99,,medium,low,5,name.com,,,
+093669b4-1085-45bf-99a3-57560322ed2d,automated.eco,available,58.48,101.98,medium,low,9,namecheap,,,22/09/2026 13:58
+1f0f1bc6-d1a0-4e9a-9bb1-1c066edeb800,blunt.eco,available,58.48,101.98,low,low,5,namecheap,,,22/09/2026 23:15
 51e78dad-ea7a-4525-9e83-aede8175488e,ladder.eco,available,64.99,,high,low,6,name.com,,,
 1dd337d3-8be8-44de-89dc-d59baf8e32ff,penny.eco,available,64.99,,medium,low,5,name.com,,,
 8fe9fa51-3e6a-4017-9e5c-193da03fec56,critically.eco,available,64.99,,medium,low,10,name.com,,,
 916b63a4-6aca-43bf-a6dd-6d8ca929f2b6,disappointed.eco,available,64.99,,medium,low,12,name.com,,,
 cd1d8c22-e8ed-4b86-a438-c0c0af7e4c0f,drawing.eco,available,64.99,,high,low,7,name.com,,,
 778cd9e2-dbce-4103-852e-214f79588a56,byebye.eco,available,64.99,,high,low,7,name.com,,,
-cf917ab7-134e-482d-8383-4d57b37966fe,all.eco,premium,4375,113.99,high,medium,3,name.com,,,
+cf917ab7-134e-482d-8383-4d57b37966fe,all.eco,premium,4535.05,74.75,medium,low,3,namecheap,,,22/09/2026 00:25
 78baa7a7-ecb2-4687-9696-d6831c173504,traffic.eco,premium,4375,,high,low,7,name.com,,,
-1d2abdbd-5c0c-43a7-9265-5f9e4034db11,abroad.eco,available,69.99,113.99,high,low,6,name.com,,,
+1d2abdbd-5c0c-43a7-9265-5f9e4034db11,abroad.eco,available,58.48,101.98,low,low,6,namecheap,,,21/09/2026 14:31
 32ed9bf1-91dd-42d6-97dc-a590693bc320,fund.eco,premium,9735.05,74.75,medium,low,4,namecheap,,,19/09/2026 13:44
 0d454f7d-f19e-431a-95ff-c9df498dbaaa,relevance.eco,available,64.99,,high,low,9,name.com,,,
-5c1006a5-5481-4f7e-b951-067db54da8b9,lovely.eco,premium,625,113.99,high,low,6,name.com,,,
+5c1006a5-5481-4f7e-b951-067db54da8b9,lovely.eco,premium,635.05,74.75,low,low,6,namecheap,,,21/09/2026 19:31
 118eee5e-dfb4-4de5-8147-2627b8a13506,interest.eco,premium,9750,74.75,medium,low,8,namecheap,,,08/09/2026 14:02
 2acab8f0-cb41-469d-b419-992947d99ca2,clearly.eco,available,64.99,,high,low,7,name.com,,,
 eff00c34-21b3-428f-9322-9f09bb4e6b56,division.eco,available,64.99,,high,low,8,name.com,,,
-288cc154-dc33-4b8b-848a-e39c93fb789f,antitumour.eco,premium,64.99,,high,low,10,name.com,,,
+288cc154-dc33-4b8b-848a-e39c93fb789f,antitumour.eco,available,58.48,101.98,medium,low,10,namecheap,,,22/09/2026 06:44
 06adc2c8-2a4d-416f-b260-43d01684fea0,cure.eco,available,69.99,113.99,high,low,4,name.com,,,
 6643522a-eef8-4766-93de-d254386f657a,unusual.eco,available,64.99,,high,low,7,name.com,,,
 bfbad845-e3df-4aec-a66b-6f0cbe1b6dc8,carefully.eco,available,64.99,,medium,low,9,name.com,,,
@@ -283,7 +283,7 @@ b2d11525-b8bf-41e9-a46e-4234d3400391,craft.eco,premium,9375,113.99,high,medium,5
 15019e37-776b-483f-bd49-c6b81fed54d4,expose.eco,available,64.99,,high,low,6,name.com,,,
 fc2597ab-6b12-4e6d-b466-6b33031ae4f4,worthy.eco,available,64.99,,high,low,6,name.com,,,
 dd0d5b29-f2ba-424d-b70b-d1acdba85e32,hurt.eco,available,64.99,,medium,low,4,name.com,,,
-da6c3998-e1c1-48ec-9624-bccb27f5ac82,mingle.eco,available,69.99,113.99,medium,low,6,name.com,,,
+da6c3998-e1c1-48ec-9624-bccb27f5ac82,mingle.eco,available,58.48,101.98,low,low,6,namecheap,,,22/09/2026 03:11
 e7c1dd21-9e91-4a21-98ce-5b1b938f9ebb,keeping.eco,available,64.99,,high,low,7,name.com,,,
 f30c7026-d413-4d03-84a2-5fa418944fb7,xmas.eco,available,64.99,,high,low,4,name.com,,,
 df2d1ece-cde1-4ab1-bee7-1c847e3d6288,queens.eco,available,64.99,,high,low,6,name.com,,,
@@ -297,15 +297,15 @@ b6766fca-890c-4e15-83a9-880840d274b2,retirement.eco,available,64.99,,high,low,10
 5449c06b-8ac5-448f-8ac4-1bacf8fd2194,pipe.eco,available,64.99,,high,low,4,name.com,,,
 d790b183-15d6-49eb-ad8c-9e314a8fd561,chairwoman.eco,available,64.99,,high,low,10,name.com,,,
 3205b038-7706-4ca6-b0f0-b5b89b13f466,extremely.eco,available,64.99,,medium,low,9,name.com,,,
-9b988a40-0f26-46a3-99ed-4b21749da96c,sexy.eco,premium,64.99,,high,low,4,name.com,,,
+9b988a40-0f26-46a3-99ed-4b21749da96c,sexy.eco,available,58.48,101.98,medium,low,4,namecheap,,,22/09/2026 07:13
 f8e026c4-cef6-40db-891e-5ebe4fa1cf8b,solvable.eco,available,64.99,,high,low,8,name.com,,,
 7893312b-ec46-402e-9adc-67c0f40022ff,burned.eco,available,64.99,,medium,low,6,name.com,,,
 16b6faa4-9c77-438b-a167-645e8e2f3233,length.eco,available,64.99,,high,low,6,name.com,,,
 de490a5d-6911-4372-8069-b5dc6dad89d4,boy.eco,available,64.99,,medium,low,3,name.com,,,
-0bb124b4-4762-4803-9a52-8d6e10b5ec7a,abiding.eco,available,69.99,113.99,high,low,7,name.com,,,
+0bb124b4-4762-4803-9a52-8d6e10b5ec7a,abiding.eco,available,58.48,101.98,medium,low,7,namecheap,,,21/09/2026 13:52
 4a600103-11be-4174-9af8-75fe12344bae,retardant.eco,available,64.99,,medium,low,9,name.com,,,
-d2548ba0-531b-4fa8-890d-199712dc13a3,xxvi.eco,available,69.99,113.99,medium,low,4,name.com,,,
-ea40f8fc-01de-4a58-9adf-fd0a72d3dd33,acute.eco,available,69.99,113.99,high,low,5,name.com,,,
+d2548ba0-531b-4fa8-890d-199712dc13a3,xxvi.eco,available,58.48,101.98,low,low,4,namecheap,,,21/09/2026 12:52
+ea40f8fc-01de-4a58-9adf-fd0a72d3dd33,acute.eco,available,58.48,101.98,medium,low,5,namecheap,,,21/09/2026 16:39
 99233c6a-ef78-4fc2-8383-1010a700949b,manila.eco,available,64.99,,high,low,6,name.com,,,
 99578d44-349a-4652-b200-fea48ddcd57a,surething.eco,available,64.99,,high,low,10,name.com,,,
 26a64757-1508-48ba-b187-53d83b7db29a,tin.eco,premium,4375,,medium,low,3,name.com,,,
@@ -314,9 +314,9 @@ ea40f8fc-01de-4a58-9adf-fd0a72d3dd33,acute.eco,available,69.99,113.99,high,low,5
 dbe1db0c-d560-46aa-8317-75ba531f0f52,values.eco,available,64.99,,high,low,6,name.com,,,
 0e00788a-2777-4c91-9c31-9511d766742b,ring.eco,premium,4375,,medium,low,4,name.com,,,
 8faaf8b9-b689-456c-b6b6-06f7e78d5d97,laid.eco,available,64.99,,medium,low,4,name.com,,,
-c181b71d-6a71-412f-a32c-b68051b69cf9,ordered.eco,premium,64.99,,high,low,7,name.com,,,
+c181b71d-6a71-412f-a32c-b68051b69cf9,ordered.eco,available,58.48,101.98,low,low,7,namecheap,,,22/09/2026 08:32
 efabb812-bb14-46cc-a138-3cd77ccbfce3,goback.eco,available,64.99,,high,low,7,name.com,,,
-0a7cf495-6303-457b-9ffa-aef7c6621f58,audacious.eco,premium,64.99,,high,low,9,name.com,,,
+0a7cf495-6303-457b-9ffa-aef7c6621f58,audacious.eco,available,58.48,101.98,medium,low,9,namecheap,,,22/09/2026 12:06
 50d04a41-9cfd-411d-9f94-24f49bedea85,sealed.eco,available,64.99,,medium,low,6,name.com,,,
 9723d157-bf6b-4376-87c6-53a57abf3260,stranger.eco,available,64.99,,high,low,8,name.com,,,
 7c3e6537-d00e-497e-a314-3a89738b13e9,sat.eco,premium,4375,,high,low,3,name.com,,,
@@ -328,30 +328,30 @@ c711ae21-493f-4cfd-8543-4cf2fe4ca876,lowlying.eco,available,64.99,,medium,low,9,
 d41e7030-5039-41b6-9867-612a2abf8c7e,same.eco,available,64.99,,high,low,4,name.com,,,
 92abaee4-fd49-4f1d-be85-94adaf548cb9,tried.eco,available,64.99,,high,low,5,name.com,,,
 3ffeafc0-4640-438c-8e4b-80f59f4119af,revealing.eco,available,64.99,,high,low,9,name.com,,,
-8a01fcfd-d31b-4512-bd91-a0cef76cfb2f,athletic.eco,premium,4375,113.99,high,low,8,name.com,,,
+8a01fcfd-d31b-4512-bd91-a0cef76cfb2f,athletic.eco,premium,4535.05,74.75,medium,low,8,namecheap,,,21/09/2026 16:12
 813ef087-b0d1-466f-be04-17ba54a38254,interim.eco,available,64.99,,high,low,7,name.com,,,
-00239ff4-2977-43ef-8d14-7982f72e2459,break.eco,premium,64.99,,medium,low,5,name.com,,,
+00239ff4-2977-43ef-8d14-7982f72e2459,break.eco,available,58.48,101.98,low,low,5,namecheap,,,22/09/2026 17:01
 b3ce0e6e-77dd-4b24-b2e1-00e99235262a,nation.eco,premium,625,,high,low,6,name.com,,,
 96b1d032-6092-40ea-92b7-b24f33ecf385,recorded.eco,available,64.99,,high,low,8,name.com,,,
-12ad2209-5749-4279-a8a8-47c2edeba789,damn.eco,available,69.99,113.99,high,low,4,name.com,,,
+12ad2209-5749-4279-a8a8-47c2edeba789,damn.eco,available,58.48,101.98,medium,low,4,namecheap,,,22/09/2026 00:35
 abffa393-3f25-453a-8981-fbe2a2bc6fde,resounding.eco,available,64.99,,high,low,10,name.com,,,
 a872433f-e68e-4f40-adef-ac4fd2dd7536,corrective.eco,available,69.99,113.99,high,low,10,name.com,,,
 cb69df72-2abc-484a-8fc6-752ffe7bc77f,days.eco,available,64.99,,high,low,4,name.com,,,
-b54a21d6-975c-4dc7-8248-331618a5d6c5,derelict.eco,available,69.99,113.99,high,low,8,name.com,,,
+b54a21d6-975c-4dc7-8248-331618a5d6c5,derelict.eco,available,58.48,101.98,low,low,8,namecheap,,,21/09/2026 13:39
 0be9f0d8-f61f-420e-abba-5b25737eb0d6,evacuate.eco,available,64.99,,medium,low,8,name.com,,,
 7ada2bc7-bb55-4f0c-8a5e-62dbc96b37c8,swing.eco,available,64.99,,high,low,5,name.com,,,
 445bdde7-7aa7-4be6-b4b5-341cedebcd87,comparable.eco,available,69.99,113.99,high,low,10,name.com,,,
-3a607030-5158-410c-a75f-f15b72af7d45,alamode.eco,available,69.99,113.99,high,low,9,name.com,,,
+3a607030-5158-410c-a75f-f15b72af7d45,alamode.eco,available,58.48,101.98,medium,low,9,namecheap,,,21/09/2026 13:34
 82074991-8bbb-40a1-8b65-006abb54e5f2,adieu.eco,available,64.99,,high,low,5,name.com,,,
 cc5cb731-2f0c-452d-87fd-43e22cda7d9c,glancing.eco,available,64.99,,medium,low,8,name.com,,,
 04871f4d-5064-4b2d-914e-5c8fc6cb55d8,hood.eco,available,64.99,,medium,low,4,name.com,,,
 337addc6-1476-43f2-8ebe-050a7230777a,organized.eco,available,64.99,,high,low,9,name.com,,,
 ec0f3fc6-a483-4a67-9fb4-421ad4f0abd6,seaside.eco,available,64.99,,high,low,7,name.com,,,
-a3176efc-ad05-4adf-983e-d60930e9be12,binding.eco,premium,64.99,,high,low,7,name.com,,,
+a3176efc-ad05-4adf-983e-d60930e9be12,binding.eco,available,58.48,101.98,medium,low,7,namecheap,,,22/09/2026 20:51
 829ec870-074e-4e18-9c62-16f72346b34e,dominated.eco,available,69.99,113.99,medium,low,9,name.com,,,
 0570305a-9734-4fdc-b7e6-73dd44dab2a9,learn.eco,premium,4375,,high,medium,5,name.com,,,
 c2f7611a-9b25-4a34-bb10-8dccd7bc4977,attraction.eco,available,64.99,,high,low,10,name.com,,,
-f526ab46-50d3-41fe-a6bf-8cd0d083cfb7,bigger.eco,premium,64.99,,high,low,6,name.com,,,
+f526ab46-50d3-41fe-a6bf-8cd0d083cfb7,bigger.eco,available,58.48,101.98,medium,low,6,namecheap,,,22/09/2026 20:34
 d69ce219-2de0-41e2-a2da-72cbc81c7499,coat.eco,available,64.99,,high,low,4,name.com,,,
 875723c2-e973-4f15-b7f4-eb0ac217c381,surprise.eco,available,64.99,,high,low,8,name.com,,,
 7a79b54f-042b-4626-83a9-25e2e3150761,intime.eco,available,64.99,,medium,low,7,name.com,,,
@@ -361,17 +361,17 @@ e36f43e1-57f8-4306-8d46-2bd308d51105,vacuum.eco,available,64.99,,high,low,6,name
 42a3a256-df03-4b95-8268-6a072d48d4a1,appreciate.eco,available,64.99,,high,low,10,name.com,,,
 51b0a884-dbe3-48d2-a8e0-be5680bb4eb5,insufficient.eco,available,64.99,,medium,low,12,name.com,,,
 87ae9357-6c1b-43ca-affc-a339a66a549d,allergy.eco,available,64.99,,high,low,7,name.com,,,
-206a6fa4-077f-4015-88a2-42e267663f22,cordial.eco,available,69.99,113.99,high,low,7,name.com,,,
+206a6fa4-077f-4015-88a2-42e267663f22,cordial.eco,available,58.48,101.98,medium,low,7,namecheap,,,21/09/2026 21:39
 2c1592f6-a6dc-4300-83e7-b696aa8d6008,culture.eco,premium,4535.05,74.75,medium,low,7,namecheap,,,21/09/2026 02:02
 54425ce4-e57b-4e10-841c-b0ef108839cc,criminal.eco,available,69.99,113.99,high,low,8,name.com,,,
 12222304-dff9-4fc7-90c9-de1f09251291,highway.eco,available,64.99,,medium,low,7,name.com,,,
 3baffe28-5fec-40ed-8d1b-56e047175755,wireless.eco,available,64.99,,high,low,8,name.com,,,
 fd2e0d69-ee4a-4e34-bece-6622702735c7,overjoy.eco,available,64.99,,high,low,7,name.com,,,
 3541f54d-13f0-44f7-b98d-d6defc8c8bff,toy.eco,premium,4375,,high,low,3,name.com,,,
-b6b32563-32e4-42d5-8cdb-ffbbcc775c6a,awakened.eco,premium,64.99,,high,low,8,name.com,,,
+b6b32563-32e4-42d5-8cdb-ffbbcc775c6a,awakened.eco,available,58.48,101.98,medium,low,8,namecheap,,,22/09/2026 14:47
 cafe20b0-b536-495e-b87f-853f66656470,imagine.eco,premium,4375,,high,medium,7,name.com,,,
 31ab2672-c2bf-45ac-b95e-77ee992b3b24,lightbulb.eco,premium,9375,,high,low,10,name.com,,,
-e500879f-a58c-4998-b4da-430e8a5307ae,two.eco,premium,69.99,113.99,high,low,3,name.com,,,
+e500879f-a58c-4998-b4da-430e8a5307ae,two.eco,premium,635.05,74.75,medium,low,3,namecheap,,,21/09/2026 12:14
 54149f48-4aa4-4fb3-9abe-0cc108a3ddf6,tails.eco,available,64.99,,high,low,5,name.com,,,
 d3b442f9-e808-4d10-8341-cc916b613f37,involved.eco,available,64.99,,high,low,8,name.com,,,
 184688e2-b5a9-4e7c-a77d-fd116473715b,encounter.eco,available,64.99,,high,low,9,name.com,,,
@@ -379,7 +379,7 @@ fd8c5d7c-7c4d-4887-9858-3dfac53fc555,latter.eco,available,64.99,,high,low,6,name
 d93f472d-4796-4576-a53e-0bd6d7ce26ae,saved.eco,available,64.99,,high,low,5,name.com,,,
 cc922bc8-90d3-4511-9f46-cdb19a671b7f,idiotic.eco,available,69.99,113.99,medium,low,7,name.com,,,
 0cd25d98-1aa7-440a-b51b-9f488945d34f,rats.eco,available,64.99,,high,low,4,name.com,,,
-d7eb3c71-b78b-45c3-a84c-3c60f1e364df,auditory.eco,premium,64.99,,high,low,8,name.com,,,
+d7eb3c71-b78b-45c3-a84c-3c60f1e364df,auditory.eco,available,58.48,101.98,medium,low,8,namecheap,,,22/09/2026 12:39
 5db87d2c-53d2-4961-bb39-b8e3de34b142,bee.eco,premium,9375,,high,medium,3,name.com,,,
 62c4e461-7c2a-46a1-a7e1-b7808265bfb5,weight.eco,available,58.48,101.98,low,low,6,namecheap,,,19/09/2026 19:07
 0b0ed482-2017-4d92-884f-387942478d1a,iconic.eco,available,64.99,,high,low,6,name.com,,,
@@ -419,7 +419,7 @@ a3252bec-cdae-410c-961d-e06cac8be4dc,think.eco,premium,9735.05,74.75,medium,low,
 9e4b51d4-3461-45a0-a897-01b011f2d33a,distract.eco,available,64.99,,high,low,8,name.com,,,
 80e19b78-7cf1-4bcc-8e4e-93d5b79f9298,eaten.eco,available,64.99,,high,low,5,name.com,,,
 ba6869fc-1c8f-42f1-8ced-f37e6c627522,muffin.eco,available,64.99,,high,low,6,name.com,,,
-eb12baa0-76b8-48cb-8514-b5db245a7f83,stretch.eco,available,69.99,113.99,high,low,7,name.com,,,
+eb12baa0-76b8-48cb-8514-b5db245a7f83,stretch.eco,available,58.48,101.98,medium,low,7,namecheap,,,21/09/2026 20:13
 418b9530-288f-4169-87ac-cc26d710b4be,hate.eco,available,64.99,,medium,low,4,name.com,,,
 b80167f9-23cc-474a-94b4-9f961caf5e82,dwelling.eco,available,64.99,,high,low,8,name.com,,,
 54d28ef5-b1a5-43ef-912b-a655ef807ab2,lightweight.eco,available,64.99,,high,low,11,name.com,,,
@@ -428,7 +428,7 @@ b80167f9-23cc-474a-94b4-9f961caf5e82,dwelling.eco,available,64.99,,high,low,8,na
 94afbd94-8d90-4478-a577-1d89e9f12005,taxation.eco,available,64.99,,high,low,8,name.com,,,
 962fa434-e405-4f42-97f8-4fb6f3d43404,concise.eco,available,69.99,113.99,high,low,7,name.com,,,
 afac851d-4f71-42bf-a1da-791a4ef65134,probable.eco,available,64.99,,high,low,8,name.com,,,
-c36776bd-0026-4ef7-8a00-8e5fc9e42d6f,diamond.eco,resell,,,high,low,7,Porkbun LLC,26/03/2020 21:43,26/03/2027 21:43,
+c36776bd-0026-4ef7-8a00-8e5fc9e42d6f,diamond.eco,resell,,,medium,low,7,Porkbun LLC,26/03/2020 21:43,26/03/2027 21:43,21/09/2026 16:47
 57c9097f-6b14-4ce9-afe9-b2b9f95bbc11,dignitary.eco,available,64.99,,high,low,9,name.com,,,
 849f871c-93e8-494f-a23e-604b33463d73,pervert.eco,available,69.99,113.99,high,low,7,name.com,,,
 2960cb01-0e6c-400f-8d8c-75420ab1f3cf,jamesdean.eco,available,64.99,,high,low,10,name.com,,,
@@ -438,7 +438,7 @@ eb2d7ddf-ef73-4a9d-b200-93a9002449a6,completed.eco,available,69.99,113.99,high,l
 ce302629-5186-4b0e-b86c-68ccae81fe74,disagree.eco,available,64.99,,high,low,8,name.com,,,
 d0a745df-2b99-42cd-afd7-2b91c1ef972d,ounce.eco,available,64.99,,high,low,5,name.com,,,
 23b2464c-292f-457d-9e49-6ff0418af741,earliest.eco,available,69.99,113.99,medium,low,8,name.com,,,
-bbfed829-2aa0-471b-a96d-3984cd61d8be,big.eco,premium,4375,113.99,high,medium,3,name.com,,,
+bbfed829-2aa0-471b-a96d-3984cd61d8be,big.eco,premium,4535.05,74.75,medium,low,3,namecheap,,,21/09/2026 20:03
 634b55ce-8b0c-480c-8a91-482685b2d8ff,tennis.eco,premium,9375,,high,low,6,name.com,,,
 201f51d4-01ef-4574-ac64-1f1712203448,shouted.eco,available,64.99,,medium,low,7,name.com,,,
 b9840669-9df1-4417-9ff3-79eb1dd172d4,french.eco,premium,64.99,,high,low,6,name.com,,,
@@ -454,23 +454,23 @@ a6619778-e9af-4761-93a9-220401464bc8,sink.eco,premium,625,,medium,low,4,name.com
 967c4643-ced9-41c8-9f11-2739ebba7558,hidden.eco,available,69.99,113.99,medium,low,6,name.com,,,
 68ed78e6-5ac4-446d-8dab-127b7adb1a12,widowed.eco,available,64.99,,medium,low,7,name.com,,,
 18b7d135-414c-4f8c-a9e8-951294b3ee94,band.eco,available,64.99,,medium,low,4,name.com,,,
-ab7c0a00-8360-4b34-81c9-a4ca0b9203ed,balmy.eco,premium,64.99,,high,low,5,name.com,,,
+ab7c0a00-8360-4b34-81c9-a4ca0b9203ed,balmy.eco,available,58.48,101.98,medium,low,5,namecheap,,,22/09/2026 08:11
 7b88e58f-580a-4563-bc75-511994ee66d2,masterly.eco,available,69.99,113.99,high,low,8,name.com,,,
 74531709-3a21-456d-9618-b7bfa64335a9,ohoh.eco,available,64.99,,medium,low,5,name.com,,,
 87ce35ae-74bd-44e0-959a-9219bd5f21f5,detection.eco,available,64.99,,high,low,9,name.com,,,
-afd80638-6d5e-4fd0-8950-ecfde0a1c7a5,ruby.eco,premium,64.99,,high,low,4,name.com,,,
+afd80638-6d5e-4fd0-8950-ecfde0a1c7a5,ruby.eco,available,58.48,101.98,medium,low,4,namecheap,,,22/09/2026 22:32
 799c35b5-1549-4f74-aece-04fe153e76eb,pot.eco,premium,4375,,high,low,3,name.com,,,
 46ada6d7-437d-4d2a-bcdf-e796bcd90fb6,amuse.eco,available,64.99,,high,low,5,name.com,,,
 4cb0893d-a77d-4dad-833e-b69a47819e28,anaemia.eco,available,64.99,,medium,low,7,name.com,,,
 f1c53d81-e686-4e4f-8acf-830161ab8581,ham.eco,premium,625,,medium,low,3,name.com,,,
 493b09b2-01ad-4b6b-a8f1-e6bdb54f94f6,nationwide.eco,available,69.99,113.99,high,medium,10,name.com,,,
-5b19691c-37bf-49b6-93b7-8da1e39c8415,helper.eco,premium,64.99,,medium,low,6,name.com,,,
+5b19691c-37bf-49b6-93b7-8da1e39c8415,helper.eco,available,58.48,101.98,low,low,6,namecheap,,,22/09/2026 09:58
 5a937ad7-3384-472a-9940-81fe4a36c413,listenin.eco,available,64.99,,high,low,9,name.com,,,
 4a7a19fe-3faa-4a6a-ab36-5e320c7a74b4,appearance.eco,available,72.98,101.98,medium,low,10,namecheap,,,08/09/2026 12:55
 438f281a-a282-4c2f-8cd9-3bb1d9b8a58b,terrific.eco,premium,64.99,,high,low,8,name.com,,,
 a14cd9a0-339e-4abe-a508-5d162c0d9912,informally.eco,available,64.99,,medium,low,10,name.com,,,
 1946222a-c2d5-4da2-8feb-611963422393,simple.eco,premium,9735.05,74.75,medium,low,6,namecheap,,,19/09/2026 05:32
-e434c892-d188-4b04-baaa-dfe18a567a53,reliable.eco,premium,64.99,,high,low,8,name.com,,,
+e434c892-d188-4b04-baaa-dfe18a567a53,reliable.eco,available,58.48,101.98,medium,low,8,namecheap,,,22/09/2026 13:45
 080cc68d-4e86-4823-bc14-daf9ced98193,reasonable.eco,premium,64.99,,high,low,10,name.com,,,
 bc1d3fad-a52a-4760-9ba4-046edd14e099,motivate.eco,available,64.99,,high,low,8,name.com,,,
 b04196ca-a09f-48bb-a89a-84278c27c9d6,oflate.eco,available,64.99,,medium,low,7,name.com,,,
@@ -479,14 +479,14 @@ ba8c85cf-de24-4e43-9424-b916f14252cb,parliamentary.eco,available,64.99,,medium,l
 f429d033-6370-4430-afff-8594df9513a8,yellow.eco,premium,1875,,high,low,6,name.com,,,
 81105cad-b81d-4790-aa2c-757ddf34daca,leader.eco,premium,4375,,high,low,6,name.com,,,
 80952f31-1aa2-4d43-9306-25f552f5891c,territory.eco,available,64.99,,high,low,9,name.com,,,
-931b0580-ca4f-4927-b101-17e72a95fba7,beatup.eco,premium,64.99,,medium,low,7,name.com,,,
+931b0580-ca4f-4927-b101-17e72a95fba7,beatup.eco,available,58.48,101.98,low,low,7,namecheap,,,22/09/2026 18:16
 9ee17145-1191-48dc-80e9-ae69592ca057,joined.eco,available,64.99,,high,low,6,name.com,,,
 51ee0284-8fe2-4338-ab88-45bca5a3e0cf,cleopatra.eco,available,64.99,,high,low,9,name.com,,,
 00f11e04-cb89-4232-a1e1-d3353865fad4,limiting.eco,available,69.99,113.99,medium,low,8,name.com,,,
 30b26604-2290-41b2-8eb1-8523ae3d2f99,automobile.eco,premium,9375,,high,low,10,name.com,,,
-31f38f5e-fe6a-43d9-944c-f6451d4dffa7,alright.eco,available,69.99,113.99,high,low,7,name.com,,,
+31f38f5e-fe6a-43d9-944c-f6451d4dffa7,alright.eco,available,58.48,101.98,medium,low,7,namecheap,,,22/09/2026 01:15
 2ac6cdb0-fb5f-41f7-ad84-52cdefe7d01d,normandy.eco,available,64.99,,medium,low,8,name.com,,,
-1c770843-b6d2-4992-b6cd-a4971a02cf02,tempting.eco,available,69.99,113.99,high,low,8,name.com,,,
+1c770843-b6d2-4992-b6cd-a4971a02cf02,tempting.eco,available,58.48,101.98,medium,low,8,namecheap,,,22/09/2026 01:44
 0f7f3b3f-f9d9-4d0e-a5bb-684dc5d69bd8,long.eco,premium,64.99,,high,low,4,name.com,,,
 5ad1b86e-f920-41ec-9f11-e77d01738d6e,flame.eco,premium,64.99,,high,low,5,name.com,,,
 924679b4-e913-4c12-83fc-8e2cc0c032bd,everywhere.eco,available,64.99,,medium,low,10,name.com,,,
@@ -513,32 +513,32 @@ bbc2aa42-d9a3-4e7b-884f-e705437954f5,certainly.eco,premium,64.99,,high,low,9,nam
 51dfa742-e8ed-4c1d-a6ff-a07b26749f3e,passion.eco,available,64.99,,high,low,7,name.com,,,
 fcc1424e-cc59-49df-b453-8a355a7bf0c9,holder.eco,available,64.99,,medium,low,6,name.com,,,
 27c2a4fb-3984-4229-8883-fea6ae349c08,munich.eco,available,64.99,,medium,low,6,name.com,,,
-b7d046db-1d62-42a0-92f6-d62d33be0cd0,orso.eco,available,69.99,113.99,medium,low,5,name.com,,,
+b7d046db-1d62-42a0-92f6-d62d33be0cd0,orso.eco,available,58.48,101.98,low,low,5,namecheap,,,21/09/2026 14:25
 8b7069ca-7bb9-44f3-a1b1-ba7a8eb4d488,although.eco,available,64.99,,medium,low,8,name.com,,,
 39a8ded4-19e8-4786-9952-2ffcbada45a5,face.eco,premium,9375,,high,low,4,name.com,,,
 372b4209-47d5-4181-8370-93013c49f3b9,steady.eco,premium,64.99,,high,low,6,name.com,,,
-111bbdc8-f9f9-4e7e-a97f-e58151238f7d,selfless.eco,available,69.99,113.99,high,low,8,name.com,,,
+111bbdc8-f9f9-4e7e-a97f-e58151238f7d,selfless.eco,available,58.48,101.98,medium,low,8,namecheap,,,22/09/2026 02:51
 4a1de5eb-4fc3-4ab8-804d-42fd9a46dd5b,divers.eco,available,64.99,,medium,low,6,name.com,,,
 46182ab4-070f-4d2b-968f-8b82836953e6,birthday.eco,available,64.99,,high,low,8,name.com,,,
 eb07db6e-51fc-4b84-937a-0a907c587c0a,public.eco,premium,625,,high,low,6,name.com,,,
 2e4fde0e-64b6-415a-a091-7b9d471b0a36,snore.eco,available,64.99,,medium,low,5,name.com,,,
 c8690d3e-9572-49df-ba61-f55085b54f0d,coach.eco,premium,625,,high,low,5,name.com,,,
-868b49c0-557d-4ee3-be2e-ebcfea892ef2,network.eco,premium,4535.05,74.75,low,low,7,namecheap,,,19/09/2026 04:36
-b42621df-dda8-43ef-ba82-48f23a281bd4,accurate.eco,available,69.99,113.99,high,low,8,name.com,,,
+868b49c0-557d-4ee3-be2e-ebcfea892ef2,network.eco,premium,4535.05,74.75,low,low,7,namecheap,,,23/09/2026 02:58
+b42621df-dda8-43ef-ba82-48f23a281bd4,accurate.eco,available,58.48,101.98,medium,low,8,namecheap,,,21/09/2026 15:59
 f15e07d9-011d-4606-aaf7-8696ebb7ee82,mandatory.eco,available,69.99,113.99,high,low,9,name.com,,,
 4ca71226-5079-4e4b-92e2-fc533cb97313,chop.eco,available,64.99,,medium,low,4,name.com,,,
 664f64e6-e2a6-4689-9abf-703094fe7e3f,sunvisor.eco,available,64.99,,high,low,9,name.com,,,
 fde772b6-43c7-408f-8c10-9f490c9aa78b,neighbour.eco,available,64.99,,high,low,9,name.com,,,
 b94e1c53-8003-446e-9586-1383f12b61df,rectify.eco,available,69.99,113.99,high,low,7,name.com,,,
 1f23a272-dffc-4685-9468-2d343ae73ddb,retarded.eco,available,64.99,,medium,low,8,name.com,,,
-a207af23-4fa2-4484-9971-0b0fb470284d,aujus.eco,premium,64.99,,medium,low,6,name.com,,,
+a207af23-4fa2-4484-9971-0b0fb470284d,aujus.eco,available,58.48,101.98,low,low,6,namecheap,,,22/09/2026 11:49
 bfad4e07-5048-4886-983c-6bda5280fc57,confetti.eco,available,64.99,,high,low,8,name.com,,,
-8cfe3094-b99f-4fed-a62e-30377f7140d2,august.eco,premium,625,,high,low,6,name.com,,,
+8cfe3094-b99f-4fed-a62e-30377f7140d2,august.eco,premium,635.05,74.75,low,low,6,namecheap,,,22/09/2026 12:44
 5d1cb1f7-0169-4321-9c25-35b08e69d4f0,lamp.eco,available,64.99,,medium,low,4,name.com,,,
 2f596350-d868-4a73-aac1-ea68462fd948,hiding.eco,available,72.98,101.98,low,low,6,namecheap,,,08/09/2026 11:45
-11f415e5-575c-464f-9c36-dc45b71490a2,genial.eco,available,69.99,113.99,high,low,6,name.com,,,
+11f415e5-575c-464f-9c36-dc45b71490a2,genial.eco,available,58.48,101.98,medium,low,6,namecheap,,,21/09/2026 21:42
 10a814ef-3c8f-4c67-b650-14e985f12892,useless.eco,available,64.99,,medium,low,7,name.com,,,
-acdfddb2-e7bf-4bfc-a0a9-4e1ac1f4c269,forth.eco,premium,64.99,,high,low,5,name.com,,,
+acdfddb2-e7bf-4bfc-a0a9-4e1ac1f4c269,forth.eco,available,58.48,101.98,low,low,5,namecheap,,,22/09/2026 14:59
 cd900d71-e499-44b2-a2fb-731f44897412,vantagepoint.eco,available,64.99,,high,low,13,name.com,,,
 fd0c98e9-d9ed-49c9-a660-6277793bab5e,courtyard.eco,available,64.99,,high,low,9,name.com,,,
 f733e43b-d32f-4cb6-9c3b-a966375e3a46,roller.eco,available,64.99,,high,low,6,name.com,,,
@@ -553,12 +553,12 @@ add25517-d73d-44e3-96da-54f034751f82,reception.eco,available,64.99,,high,low,9,n
 daf6b94c-1018-445e-965d-e2102dc37eea,chill.eco,premium,4375,113.99,high,low,5,name.com,,,
 7159a4b9-9fa4-4041-a094-504cb9ff8be4,change.eco,premium,9375,,high,medium,6,name.com,,,
 93ae3d00-221d-41ca-b2ab-7628d3d5bca9,quest.eco,premium,1875,,high,medium,5,name.com,,,
-96a0e731-ec70-4b2f-9d9e-175b532294da,remove.eco,available,69.99,113.99,high,low,6,name.com,,,
+96a0e731-ec70-4b2f-9d9e-175b532294da,remove.eco,available,74.99,113.99,medium,low,6,name.com,,,21/09/2026 14:40
 9fccbcbb-92b7-4f91-9788-2b6dfd08e07e,should.eco,available,64.99,,high,low,6,name.com,,,
 1c584a67-f755-4f6d-9880-782ad0ba523a,language.eco,available,64.99,,high,low,8,name.com,,,
-a628ad91-7551-480a-812e-4ba515de5ccd,academic.eco,available,69.99,113.99,high,low,8,name.com,,,
+a628ad91-7551-480a-812e-4ba515de5ccd,academic.eco,available,58.48,101.98,medium,low,8,namecheap,,,21/09/2026 15:21
 aaadf841-37f3-45ec-a25f-a4e30bece29a,concentrated.eco,available,64.99,,medium,low,12,name.com,,,
-96d8fda1-8b2f-4ed9-8e26-a85904a3736a,skilful.eco,available,69.99,113.99,high,low,7,name.com,,,
+96d8fda1-8b2f-4ed9-8e26-a85904a3736a,skilful.eco,available,74.99,113.99,medium,low,7,name.com,,,21/09/2026 17:29
 ef988125-c1ee-4220-981d-6ab01230c88f,packed.eco,available,64.99,,medium,low,6,name.com,,,
 db0bc903-daf6-4c33-9af3-faf1f6e463d9,intense.eco,available,64.99,,high,low,7,name.com,,,
 9759b039-21c5-42d3-bbd3-65039a79202f,greet.eco,available,64.99,,high,low,5,name.com,,,
@@ -577,36 +577,36 @@ f6aed872-2eef-425f-b142-f34cad2af091,pleased.eco,available,64.99,,high,low,7,nam
 46ec3b39-df37-47f7-98c8-b0a83d23f8a8,tons.eco,available,64.99,,high,low,4,name.com,,,
 f1cf3f19-2f96-452b-be0a-01dab6ec6af5,diploma.eco,available,64.99,,high,low,7,name.com,,,
 abf13274-2f84-4852-861c-b1df1413ca8d,widen.eco,available,64.99,,medium,low,5,name.com,,,
-2e7bb84d-1117-4a1e-a836-f53d0d406678,amateur.eco,available,69.99,113.99,high,low,7,name.com,,,
+2e7bb84d-1117-4a1e-a836-f53d0d406678,amateur.eco,available,58.48,101.98,low,low,7,namecheap,,,22/09/2026 03:21
 e95f5e9b-4bcd-4ffb-8398-2f8eee75b7c8,color.eco,premium,1875,,high,low,5,name.com,,,
 f97ec5cf-7dd8-4c95-bbdf-29988e43b80c,oklahoma.eco,premium,625,,high,low,8,name.com,,,
 c0ebd19d-1577-4d33-acbe-918e7a58062c,figure.eco,premium,64.99,,high,low,6,name.com,,,
 43b391ee-c0d0-4270-98bf-1bc7675c89d0,respond.eco,available,64.99,,high,low,7,name.com,,,
 5af209b3-b653-45a0-90fc-60fb139953c0,market.eco,premium,9735.05,74.75,medium,low,6,namecheap,,,19/09/2026 13:41
-1c18f3f0-6a21-4291-99f2-835ede1aa780,xiii.eco,available,69.99,113.99,medium,low,4,name.com,,,
+1c18f3f0-6a21-4291-99f2-835ede1aa780,xiii.eco,available,58.48,101.98,low,low,4,namecheap,,,21/09/2026 11:34
 074c63a1-1aa3-4f09-8b7c-cc72f6dfcb08,reader.eco,available,64.99,,high,low,6,name.com,,,
 7d80b658-7e14-4f16-b09e-6a7ae2263681,yield.eco,available,64.99,,high,low,5,name.com,,,
 078df0b0-df0d-4176-b7e2-946172fc7ec4,document.eco,premium,625,,high,low,8,name.com,,,
 454a40eb-2953-4952-81f1-b219ae50e08a,affect.eco,available,64.99,,high,low,6,name.com,,,
-43a34aec-ccae-49f9-95b1-f4e728b50799,amalgamate.eco,available,69.99,113.99,high,low,10,name.com,,,
+43a34aec-ccae-49f9-95b1-f4e728b50799,amalgamate.eco,available,58.48,101.98,low,low,10,namecheap,,,22/09/2026 03:01
 a3e89ec8-949c-4e0a-a3bc-77087cab61e8,courage.eco,available,64.99,,high,low,7,name.com,,,
-43cd81eb-454f-40b0-8b0e-e965301934a0,australian.eco,premium,64.99,,high,low,10,name.com,,,
+43cd81eb-454f-40b0-8b0e-e965301934a0,australian.eco,available,58.48,101.98,low,low,10,namecheap,,,22/09/2026 13:30
 638a91c5-7cc6-4804-a2bf-587f94514176,joy.eco,premium,4375,,high,medium,3,name.com,,,
 466c2dc2-ac43-4e7d-abec-bd4841a1aea1,supposedly.eco,available,64.99,,medium,low,10,name.com,,,
 d50b9e96-6128-4f69-a012-3bb507eea516,grandpa.eco,available,64.99,,high,low,7,name.com,,,
-46141379-127b-4cc5-8ffb-485c3e74ee9a,ago.eco,available,69.99,113.99,medium,low,3,name.com,,,
+46141379-127b-4cc5-8ffb-485c3e74ee9a,ago.eco,available,58.48,101.98,low,low,3,namecheap,,,21/09/2026 23:15
 09a5335c-f157-4e94-8c09-2a28362110ed,never.eco,available,64.99,,high,low,5,name.com,,,
 981bf810-cfa7-419e-9572-9d4d4198d3b8,grandad.eco,available,64.99,,high,low,7,name.com,,,
 e21f8811-1b6a-4cc7-97a5-44833b6e037f,urge.eco,available,64.99,,high,low,4,name.com,,,
 6b8e9f23-3de0-403d-ba45-1ea25c09b5a2,smelling.eco,available,64.99,,medium,low,8,name.com,,,
-deac2dc5-e8ec-42bf-a068-2cac77cc5c99,stern.eco,premium,64.99,,medium,low,5,name.com,,,
+deac2dc5-e8ec-42bf-a068-2cac77cc5c99,stern.eco,available,58.48,101.98,low,low,5,namecheap,,,22/09/2026 13:25
 44dc99c8-9a8c-476e-a9d5-7d6fd625660f,wax.eco,premium,4375,,medium,low,3,name.com,,,
 47262d2e-1a43-4666-9efd-88c9f9ae2b0b,wine.eco,premium,4375,,high,low,4,name.com,,,
 70302e42-158a-4af9-ba4e-ffa8b7bec2ea,recent.eco,available,64.99,,high,low,6,name.com,,,
 4c30aad7-95d6-42bd-9573-e0b400c36223,understandable.eco,available,64.99,,high,low,14,name.com,,,
 037012b1-baac-4e5f-9248-8d1a702fb694,annoy.eco,available,64.99,,medium,low,5,name.com,,,
 356c9231-b3d2-4fd3-8d97-cc2e71c47573,none.eco,available,64.99,,high,low,4,name.com,,,
-b0740bca-572e-4a37-84ef-c423801c267f,roughly.eco,available,69.99,113.99,medium,low,7,name.com,,,
+b0740bca-572e-4a37-84ef-c423801c267f,roughly.eco,available,58.48,101.98,low,low,7,namecheap,,,21/09/2026 14:14
 805cee0e-c9ac-466a-8b94-6e61cdcc6fd2,immediate.eco,available,69.99,113.99,high,low,9,name.com,,,
 66e44f7f-651b-47e5-b92b-07640d47c823,pat.eco,available,64.99,,high,low,3,name.com,,,
 c403d381-ea82-4dc7-ba24-9ced47328cef,moveover.eco,available,64.99,,high,low,9,name.com,,,
@@ -620,7 +620,7 @@ e4466332-cd81-4f30-b3b6-e8af5b059cba,intricate.eco,available,64.99,,high,low,9,n
 12f0b015-dd4b-4974-9819-b35b63c43ada,whiten.eco,available,64.99,,high,low,6,name.com,,,
 0d96d37e-9f07-48d1-9d36-bdaf8915cff2,setting.eco,available,64.99,,high,low,7,name.com,,,
 4557e466-a75b-4253-b602-cfb94daf3178,vacuumcleaner.eco,available,64.99,,high,low,14,name.com,,,
-75ccc7dd-fbdd-400c-b412-0944f206d8b3,advance.eco,premium,4375,113.99,high,low,7,name.com,,,
+75ccc7dd-fbdd-400c-b412-0944f206d8b3,advance.eco,premium,4535.05,74.75,medium,low,7,namecheap,,,21/09/2026 20:22
 10e418d5-cde4-43f2-87be-a1091d4f275f,creepy.eco,available,69.99,113.99,medium,low,6,name.com,,,
 08143e5b-91e4-43f5-86cb-64904870d2f2,changing.eco,premium,64.99,,medium,low,8,name.com,,,
 eede7d28-ab4c-4bd8-9710-43b1ef189f98,communist.eco,available,69.99,113.99,high,low,9,name.com,,,
@@ -628,7 +628,7 @@ eede7d28-ab4c-4bd8-9710-43b1ef189f98,communist.eco,available,69.99,113.99,high,l
 ec8d3ce4-e547-45ba-8898-20b8d9ff85c0,copy.eco,premium,4375,,high,low,4,name.com,,,
 4d083f1a-6536-448e-83f3-49f8f7cdc9a9,geometry.eco,available,64.99,,high,low,8,name.com,,,
 9bbfed2b-ae3b-438f-b422-587f8b0bce43,vacation.eco,premium,9375,,high,low,8,name.com,,,
-ee102818-0138-44a3-aace-175cbf2ce3eb,slow.eco,premium,1875,,high,low,4,name.com,,,
+ee102818-0138-44a3-aace-175cbf2ce3eb,slow.eco,premium,1935.05,74.75,medium,low,4,namecheap,,,23/09/2026 00:28
 ace29dbe-4c7c-4e42-a85a-cef7ed9dbf1e,streaming.eco,available,64.99,,high,low,9,name.com,,,
 0788bd8d-f753-4ab9-a118-7391638f8eb9,camo.eco,available,64.99,,high,low,4,name.com,,,
 daf55ade-d0a2-4fc0-837c-d968db8bd7c9,husband.eco,available,64.99,,high,low,7,name.com,,,
@@ -657,7 +657,7 @@ a28771fd-e838-4401-8809-b4ebe21f05c4,range.eco,premium,4375,,medium,low,5,name.c
 4e4aa8d8-ae1c-4cf2-819f-28de1a930f54,wrecked.eco,available,64.99,,medium,low,7,name.com,,,
 72bc39db-4ef6-45c7-a1d1-ab26bc1461c4,rile.eco,available,64.99,,medium,low,4,name.com,,,
 a8cc8a46-c3c3-4834-80cf-a98b4320d094,lisboa.eco,available,64.99,,medium,low,6,name.com,,,
-adb5f842-d5bb-4625-8920-059d688cd5f2,eighteen.eco,available,69.99,113.99,high,low,8,name.com,,,
+adb5f842-d5bb-4625-8920-059d688cd5f2,eighteen.eco,available,58.48,101.98,medium,low,8,namecheap,,,21/09/2026 11:58
 39aae2c4-053c-4002-8627-dc2d17fb829b,mention.eco,available,64.99,,high,low,7,name.com,,,
 519de20c-1652-4eda-9632-95da8ceb9737,pressed.eco,available,64.99,,medium,low,7,name.com,,,
 13701e2a-3c5d-4454-872a-7883db086128,jealous.eco,available,69.99,113.99,high,low,7,name.com,,,
@@ -670,11 +670,11 @@ c4fcc6df-be0f-4f92-a4a1-2b8662113519,anytime.eco,premium,1875,,high,low,7,name.c
 2f2aa086-f438-4460-ba21-05d9d249e046,stan.eco,available,64.99,,high,low,4,name.com,,,
 1e4bfd72-ad9e-406d-8aa7-8136843ee525,atbest.eco,available,64.99,,medium,low,7,name.com,,,
 f382e57c-aa82-45bb-abbb-356251d41a8c,relish.eco,available,64.99,,high,low,6,name.com,,,
-6d7958d5-046c-4a74-86a2-7dfa8e782ee5,back.eco,premium,4375,,high,low,4,name.com,,,
+6d7958d5-046c-4a74-86a2-7dfa8e782ee5,back.eco,premium,4535.05,74.75,medium,low,4,namecheap,,,22/09/2026 15:40
 ea04923e-d15d-4933-ac94-940bf092d663,songbird.eco,available,64.99,,high,low,8,name.com,,,
 c2def760-47d9-4869-8803-83ed521e213a,represent.eco,available,64.99,,high,low,9,name.com,,,
 1b28cf0a-f9c6-4b44-9276-0f38f58c2ed0,hide.eco,premium,64.99,,high,low,4,name.com,,,
-cfc563dc-7087-4dcd-a38b-717da8da7a3c,foreman.eco,premium,64.99,,medium,low,7,name.com,,,
+cfc563dc-7087-4dcd-a38b-717da8da7a3c,foreman.eco,available,58.48,101.98,low,low,7,namecheap,,,23/09/2026 00:59
 e95388f2-815d-4159-9a05-67a98c7c10e9,invitation.eco,premium,9375,,high,low,10,name.com,,,
 0be142f6-29fe-4453-b035-cc4d9613925d,whiteboard.eco,available,64.99,,high,low,10,name.com,,,
 f72637ab-aa50-46fc-97e2-e219f91bb0ac,conductor.eco,available,64.99,,high,low,9,name.com,,,
@@ -683,7 +683,7 @@ f72637ab-aa50-46fc-97e2-e219f91bb0ac,conductor.eco,available,64.99,,high,low,9,n
 c2e48666-7551-4743-88fd-903849026575,barn.eco,available,64.99,,high,low,4,name.com,,,
 2561bc09-ed85-4472-8002-72a7bc171ea4,understood.eco,available,64.99,,high,low,10,name.com,,,
 94e2744e-dcc2-4652-bdfd-257991a54fb1,undisciplined.eco,available,64.99,,medium,low,13,name.com,,,
-5c86e160-aa5e-4de3-96be-216581487ffa,ambitious.eco,premium,64.99,,high,low,9,name.com,,,
+5c86e160-aa5e-4de3-96be-216581487ffa,ambitious.eco,available,58.48,101.98,low,low,9,namecheap,,,22/09/2026 03:59
 bc5873cb-1d32-49f0-bdb8-c96f06548fa3,frustrated.eco,available,69.99,113.99,medium,low,10,name.com,,,
 a842cf14-e9d1-42d1-b5e2-249cf5d10253,waters.eco,premium,625,,medium,low,6,name.com,,,
 36e760b3-63cd-4e28-851d-9ffc4f1d5fc5,shear.eco,available,64.99,,medium,low,5,name.com,,,
@@ -693,25 +693,25 @@ e9a6f57f-23e3-4ca4-bddd-77e03bc68801,living.eco,premium,4375,,high,low,6,name.co
 9bbb9f16-4465-4d18-86be-96cf52d7d02d,buttin.eco,available,72.98,101.98,low,low,7,namecheap,,,08/09/2026 04:04
 bd0f75d6-ce5d-45a9-9a2e-065762e02945,coveted.eco,available,69.99,113.99,high,low,7,name.com,,,
 7e41bdb6-56c9-46dc-bed5-6617a2a074f0,timer.eco,available,64.99,,high,low,5,name.com,,,
-4bdb9dc4-27d4-4ec8-ba9b-a480bd671963,sapphire.eco,premium,64.99,,high,medium,8,name.com,,,
+4bdb9dc4-27d4-4ec8-ba9b-a480bd671963,sapphire.eco,available,58.48,101.98,medium,low,8,namecheap,,,22/09/2026 15:38
 328fca3e-567c-425a-af62-ffaafeb7930c,coherently.eco,available,64.99,,medium,low,10,name.com,,,
-7e8f5d7e-ac08-4a30-bb7a-4ce6a968fc69,prejudice.eco,premium,64.99,,high,low,9,name.com,,,
+7e8f5d7e-ac08-4a30-bb7a-4ce6a968fc69,prejudice.eco,available,58.48,101.98,low,low,9,namecheap,,,22/09/2026 20:16
 cafd292c-6084-4230-9e46-fda32099f372,customize.eco,available,64.99,,high,low,9,name.com,,,
 9f4b574b-480b-4298-b202-37b3acbd7a60,grandkid.eco,available,64.99,,high,low,8,name.com,,,
 19bad3f0-69e8-485c-8250-48da387a7fdc,conduction.eco,available,64.99,,high,low,10,name.com,,,
 1b7bbedf-2403-4045-86c4-750bd48b7da0,watchover.eco,available,64.99,,high,low,10,name.com,,,
 da1776ca-ba08-46bf-8254-2345301b40ae,bed.eco,premium,9375,,high,low,3,name.com,,,
-76705e40-cedb-47c2-bd62-47563e09d489,lord.eco,available,69.99,113.99,high,low,4,name.com,,,
+76705e40-cedb-47c2-bd62-47563e09d489,lord.eco,available,58.48,101.98,medium,low,4,namecheap,,,22/09/2026 01:47
 a388681a-12e5-4f7d-8c26-3f59415544c1,prolific.eco,available,64.99,,high,low,8,name.com,,,
 ee5c8d39-7ac2-44d7-92a6-0ac1a95b2fa9,bio.eco,premium,9375,,high,medium,3,name.com,,,
-01cf8c0d-b23f-4277-865f-7843e7daeaa1,plain.eco,premium,64.99,,medium,low,5,name.com,,,
+01cf8c0d-b23f-4277-865f-7843e7daeaa1,plain.eco,available,58.48,101.98,low,low,5,namecheap,,,22/09/2026 07:19
 02a2ce62-a9c3-4651-a289-1f09508eac27,seats.eco,available,64.99,,high,low,5,name.com,,,
 cea48460-7ce6-4103-b5c9-835eac79b1ce,consummate.eco,available,69.99,113.99,high,low,10,name.com,,,
 ca54ab7c-139d-418e-8760-2cd0292618a8,what.eco,available,64.99,,high,low,4,name.com,,,
 3f3b1708-745b-4a21-9bba-5d641bfc3e6c,present.eco,premium,9375,,high,low,7,name.com,,,
 1752c208-205b-45b2-9078-9125f2a3cd29,broadband.eco,premium,64.99,,high,low,9,name.com,,,
 0b1c61b6-2878-4b18-a042-8f16a00a58de,lightly.eco,available,64.99,,medium,low,7,name.com,,,
-660de0dd-3c77-4aa1-b8ed-7a92dae65af6,aseptic.eco,premium,64.99,,high,low,7,name.com,,,
+660de0dd-3c77-4aa1-b8ed-7a92dae65af6,aseptic.eco,available,58.48,101.98,medium,low,7,namecheap,,,22/09/2026 09:33
 4f94e584-7ba0-4529-803d-7d92aa084205,dark.eco,premium,1875,113.99,medium,medium,4,name.com,,,
 d9eb0d59-216b-4176-8dd9-afd46767f19b,corner.eco,available,64.99,,medium,low,6,name.com,,,
 10592a87-7491-416e-97c2-62a8047985fe,thinkof.eco,available,64.99,,high,low,8,name.com,,,
@@ -731,7 +731,7 @@ ecde2ad1-ca76-48d3-ad82-5f1d54b3aec5,keepgoing.eco,available,64.99,,high,low,10,
 2c7d37ea-3689-4464-9840-aba88ffedb9c,concoct.eco,available,64.99,,high,low,7,name.com,,,
 3542290b-f60b-460c-b0f0-9c214e7f4ed4,handmedown.eco,available,64.99,,high,low,12,name.com,,,
 94aef776-52a2-4742-9521-00f5a539464b,much.eco,available,64.99,,high,low,4,name.com,,,
-6ded4552-062e-4fe0-8059-244cf93509c2,affordable.eco,premium,625,113.99,high,low,10,name.com,,,
+6ded4552-062e-4fe0-8059-244cf93509c2,affordable.eco,premium,635.05,74.75,medium,low,10,namecheap,,,21/09/2026 21:59
 1caba8e4-0138-4d7d-a412-048ada7c3926,massive.eco,available,64.99,,high,low,7,name.com,,,
 175e2c46-f791-463e-9edc-ee52262b2e33,section.eco,available,72.98,101.98,medium,low,7,namecheap,,,08/09/2026 06:07
 662e6519-bd05-423a-941b-2fd9e4549830,pick.eco,premium,64.99,,medium,low,4,name.com,,,
@@ -748,13 +748,13 @@ d6e2f974-c1f7-4a18-a930-d88c599fe776,lava.eco,available,64.99,,medium,low,4,name
 8e7301fa-128f-4e50-a533-710d18d2070b,exhaustion.eco,available,64.99,,medium,low,10,name.com,,,
 c26cb9ec-5f9f-40c7-b412-1c38e4623dd9,baghdad.eco,available,64.99,,medium,low,7,name.com,,,
 fb3fd84a-fe06-46d1-b1a5-d82741b33bbc,hourly.eco,premium,64.99,,high,low,6,name.com,,,
-64658840-eb87-43b1-bf1d-242aa2366875,admirable.eco,available,69.99,113.99,high,low,9,name.com,,,
-553b895a-04ae-43c5-a358-ec159ea09547,equal.eco,premium,1875,113.99,high,low,5,name.com,,,
+64658840-eb87-43b1-bf1d-242aa2366875,admirable.eco,available,58.48,101.98,medium,low,9,namecheap,,,21/09/2026 18:46
+553b895a-04ae-43c5-a358-ec159ea09547,equal.eco,premium,1935.05,74.75,medium,low,5,namecheap,,,21/09/2026 18:27
 190f02a6-17fc-4a56-bdab-9794d27ca74d,mist.eco,available,64.99,,medium,low,4,name.com,,,
 5fcc39d3-0a1d-4d96-b056-409dca826856,noticeable.eco,available,69.99,113.99,medium,low,10,name.com,,,
 f1141ae6-e313-4e65-abe3-46a03e98b0c5,matched.eco,available,64.99,,high,low,7,name.com,,,
 a3de902a-cdc1-4cfa-b970-95f81d523aef,finally.eco,available,64.99,,high,low,7,name.com,,,
-97bf5f6b-84b4-4c38-b0bf-c541c7895c63,actual.eco,premium,4375,113.99,high,low,6,name.com,,,
+97bf5f6b-84b4-4c38-b0bf-c541c7895c63,actual.eco,premium,4535.05,74.75,medium,low,6,namecheap,,,21/09/2026 16:37
 e4775bf9-d0b5-4e17-9939-ad51a3042e63,separation.eco,available,64.99,,high,low,10,name.com,,,
 a5a13212-ce08-44b4-a25b-c4303f1cf3b9,box.eco,premium,9735.05,74.75,low,low,3,namecheap,,,19/09/2026 13:28
 b1168d3f-f0a4-4221-a924-bf121d15d0a2,required.eco,available,69.99,113.99,medium,low,8,name.com,,,
@@ -765,9 +765,9 @@ df99abe7-bd5e-4eda-b1d1-a457ad9bf11e,headline.eco,available,64.99,,high,low,8,na
 1998cc30-5ab5-4c11-9a30-a70c6bb80fd6,hello.eco,premium,9375,,high,high,5,name.com,,,
 5c41c939-f8e1-4820-9ef1-db6e73293c87,hairy.eco,premium,64.99,,medium,low,5,name.com,,,
 c3984403-682e-49cd-8beb-388641b22796,ted.eco,available,64.99,,high,low,3,name.com,,,
-165a4cb5-5a30-4a04-b6ca-145618082cd9,accommodate.eco,available,64.99,,high,low,11,name.com,,,
+165a4cb5-5a30-4a04-b6ca-145618082cd9,accommodate.eco,available,64.99,,medium,low,11,name.com,,,
 4ab357e0-3d15-4113-b393-6472d68e84e6,greetings.eco,available,64.99,,high,low,9,name.com,,,
-e8ed34f3-68e1-40fe-b7f0-809afd847827,blueish.eco,premium,64.99,,high,low,7,name.com,,,
+e8ed34f3-68e1-40fe-b7f0-809afd847827,blueish.eco,available,58.48,101.98,low,low,7,namecheap,,,22/09/2026 22:51
 9faaf64d-2768-4662-aabf-35617808bf2b,grouping.eco,available,64.99,,high,low,8,name.com,,,
 306f0371-30da-4e5e-a221-47a9c2e71fd2,scratched.eco,available,64.99,,medium,low,9,name.com,,,
 db4179bb-6e92-4c44-a069-1fbe84af84af,tower.eco,available,64.99,,high,low,5,name.com,,,
@@ -798,10 +798,10 @@ d3f3b215-58c8-4cfd-ac47-b4fe882fc42b,quantity.eco,available,64.99,,high,low,8,na
 11e331b7-2ef6-4a76-9608-96b422625103,defined.eco,available,69.99,113.99,medium,low,7,name.com,,,
 520aa9aa-2e63-4536-9894-102f533f7dbf,both.eco,available,64.99,,high,low,4,name.com,,,
 81db648d-db11-4248-bc11-a6b5fa3aa40d,term.eco,available,64.99,,high,low,4,name.com,,,
-65c2d323-b6a5-43f9-9b82-15bd18be7a61,bothered.eco,premium,64.99,,medium,low,8,name.com,,,
+65c2d323-b6a5-43f9-9b82-15bd18be7a61,bothered.eco,available,58.48,101.98,low,low,8,namecheap,,,23/09/2026 01:08
 c9b8755c-8e16-41c4-b160-37703d463da1,borderon.eco,available,64.99,,high,low,9,name.com,,,
 ab5cb22d-8180-411e-9f25-449e57b983e8,lafayette.eco,available,64.99,,medium,low,9,name.com,,,
-c51939aa-2475-451a-8971-67285fa80417,blurred.eco,premium,64.99,,medium,low,7,name.com,,,
+c51939aa-2475-451a-8971-67285fa80417,blurred.eco,available,58.48,101.98,low,low,7,namecheap,,,22/09/2026 23:21
 01faf4b4-ee7f-41b0-9c5d-db518ec1ff64,crying.eco,available,69.99,113.99,high,low,6,name.com,,,
 77002955-6041-40a4-9c2e-7fff765a2040,tolerable.eco,premium,64.99,,medium,low,9,name.com,,,
 ef54dfd1-ad22-4ede-86ca-5c71a0a51a6c,title.eco,available,64.99,,high,low,5,name.com,,,
@@ -811,7 +811,7 @@ d7575210-d547-444e-9d8e-3e495036ac12,cod.eco,premium,4375,,medium,low,3,name.com
 e86d87a5-21fb-4751-b3c8-b1bcbbe769e6,proud.eco,available,64.99,,high,low,5,name.com,,,
 0ffe003e-9e91-485e-bb85-179d6b6f31cc,anticipate.eco,available,64.99,,high,low,10,name.com,,,
 924e7a87-d48f-4b1c-ba73-469ae7df768e,upon.eco,available,64.99,,medium,low,4,name.com,,,
-7e6d98ad-0e8f-46ff-8b81-20416f8f936f,billion.eco,premium,1875,,high,low,7,name.com,,,
+7e6d98ad-0e8f-46ff-8b81-20416f8f936f,billion.eco,premium,1935.05,74.75,medium,low,7,namecheap,,,22/09/2026 20:43
 a6616805-dbf2-493d-94e2-cd22849a0858,completing.eco,available,69.99,113.99,medium,low,10,name.com,,,
 6cce55ed-04ea-410f-8734-67ebc5b25e99,competing.eco,available,64.99,,medium,low,9,name.com,,,
 5fad61f7-8599-4008-b1b4-a639df7a727e,walking.eco,available,64.99,,high,low,7,name.com,,,
@@ -823,18 +823,18 @@ d4408666-5527-4b0c-9325-edf84e794349,religion.eco,available,64.99,,high,low,8,na
 73425e87-64d0-4cac-8b0f-cabebe13398a,injure.eco,available,64.99,,medium,low,6,name.com,,,
 a492adbf-73d3-4c05-9291-2d081aa34580,riding.eco,available,64.99,,high,low,6,name.com,,,
 0579cfdf-cc9b-46b8-84ec-1024855caa30,worry.eco,available,64.99,,medium,low,5,name.com,,,
-d0717d6b-d96e-409f-b612-a643407cd046,astonished.eco,premium,64.99,,high,low,10,name.com,,,
+d0717d6b-d96e-409f-b612-a643407cd046,astonished.eco,available,58.48,101.98,low,low,10,namecheap,,,22/09/2026 03:35
 eb1d11fc-8e4f-40f7-b6ea-250724ce5744,surfboard.eco,available,64.99,,high,low,9,name.com,,,
-da02adfb-d315-409a-8299-305a33386a19,aural.eco,premium,64.99,,medium,low,5,name.com,,,
+da02adfb-d315-409a-8299-305a33386a19,aural.eco,available,58.48,101.98,low,low,5,namecheap,,,22/09/2026 12:49
 d4bdac2b-9799-4670-abbd-63b1729ca516,eachyear.eco,available,64.99,,high,low,9,name.com,,,
 b0272146-26e2-4db6-abc5-9c05b8a3c27e,qualifier.eco,available,64.99,,high,low,9,name.com,,,
 38ec6a0a-7a3d-4f08-b32a-6ddf65962e11,diskspace.eco,available,64.99,,high,low,10,name.com,,,
-d331e484-6d2a-47fe-89e8-1e33edbd6fe2,unify.eco,available,64.99,,high,low,5,name.com,,,
+d331e484-6d2a-47fe-89e8-1e33edbd6fe2,unify.eco,available,58.48,101.98,low,low,5,namecheap,,,22/09/2026 03:16
 93e70dcb-311e-4a31-8735-584c77b08e18,goodday.eco,available,64.99,,high,low,8,name.com,,,
 f9540a04-981c-4f07-ace7-af1d03195212,christianname.eco,available,64.99,,medium,low,14,name.com,,,
 5823466b-e6db-4fd7-a7d1-6ae333ce2908,restaurant.eco,premium,9375,,high,low,10,name.com,,,
 ac7c4f64-ccb9-4645-b4de-6a0e16321941,salary.eco,available,64.99,,high,low,6,name.com,,,
-8393c5e6-acf6-486d-958b-2583c7b7206c,annual.eco,premium,64.99,,high,low,6,name.com,,,
+8393c5e6-acf6-486d-958b-2583c7b7206c,annual.eco,available,58.48,101.98,medium,low,6,namecheap,,,22/09/2026 05:27
 b38fbfd1-2ea3-4263-a700-8a18bf4b2ade,committed.eco,premium,64.99,,high,low,9,name.com,,,
 c9ea4084-1019-4ed0-aa03-d44b2527fcf6,hercules.eco,available,64.99,,high,low,8,name.com,,,
 21c36f65-005b-45bf-853f-2d9675d1cbf8,coffee.eco,premium,9375,,high,medium,6,name.com,,,
@@ -843,28 +843,28 @@ a0ab04f4-ae97-4fdc-90a2-5035ee1c7d67,coffin.eco,available,64.99,,medium,low,6,na
 2d90ce90-cf11-4b57-aae7-0c16d063d82e,matisse.eco,available,64.99,,high,low,7,name.com,,,
 e3b73a4c-ebdb-4c67-9d4b-63eaabb1025b,profitable.eco,available,64.99,,high,low,10,name.com,,,
 4407b107-51da-4c32-8782-39c524f5e6b4,popular.eco,available,64.99,,high,low,7,name.com,,,
-f87163e9-ed86-4d3c-9c9c-3f81bd2ea5a0,accepted.eco,available,69.99,113.99,high,low,8,name.com,,,
+f87163e9-ed86-4d3c-9c9c-3f81bd2ea5a0,accepted.eco,available,58.48,101.98,medium,low,8,namecheap,,,21/09/2026 15:25
 79d6efb2-6930-4a51-a494-84d0ab653625,whip.eco,available,64.99,,high,low,4,name.com,,,
-efa0b4bb-fe12-44f2-b782-67e1a0bbbbfb,ascent.eco,premium,64.99,,high,low,6,name.com,,,
+efa0b4bb-fe12-44f2-b782-67e1a0bbbbfb,ascent.eco,available,58.48,101.98,low,low,6,namecheap,,,22/09/2026 09:19
 60bc13c3-5aef-4a8e-82b6-33cb385f89b1,motion.eco,available,64.99,,high,low,6,name.com,,,
 d79da3ca-6853-4bf2-a518-122a0d9cd986,scotch.eco,premium,64.99,,high,low,6,name.com,,,
 d436fcf6-c7b1-4a47-b983-43140b0b4441,deejay.eco,available,64.99,,high,low,6,name.com,,,
 e1c83ba6-0e4b-4124-b11d-1f57ca1f50c8,awarding.eco,available,64.99,,high,low,8,name.com,,,
 696f34c2-6bc2-4fff-acdc-1be4d2f0aeda,complete.eco,premium,635.05,74.75,medium,low,8,namecheap,,,19/09/2026 19:02
-ab070b2c-053a-46d5-9cdc-cbffab7c3943,dull.eco,premium,64.99,,medium,low,4,name.com,,,
+ab070b2c-053a-46d5-9cdc-cbffab7c3943,dull.eco,available,58.48,101.98,low,low,4,namecheap,,,23/09/2026 00:25
 6dc1a511-c1e7-4284-81a2-029aa90277d5,inturn.eco,available,64.99,,high,low,7,name.com,,,
-0ee8c1e1-5a88-49c1-9def-60fb50db906d,devices.eco,premium,635.05,74.75,medium,low,7,namecheap,,,19/09/2026 10:40
+0ee8c1e1-5a88-49c1-9def-60fb50db906d,devices.eco,premium,635.05,74.75,medium,low,7,namecheap,,,23/09/2026 04:05
 ad095510-f7f2-4e99-833c-5a8408842c87,theory.eco,available,64.99,,high,low,6,name.com,,,
 a7f06328-c912-4fc5-aa80-7bedd6496a1a,loss.eco,available,64.99,,medium,low,4,name.com,,,
-1a1d996f-370e-4a7a-ab46-a67e852bce81,attentive.eco,premium,64.99,,high,low,9,name.com,,,
+1a1d996f-370e-4a7a-ab46-a67e852bce81,attentive.eco,available,58.48,101.98,medium,low,9,namecheap,,,22/09/2026 11:22
 d846b199-a124-4831-a3fe-53e513f2be9a,enemy.eco,available,58.48,101.98,low,low,5,namecheap,,,19/09/2026 10:02
 fde14973-baa5-4ca2-ae24-ef9c07e5b295,wheel.eco,premium,625,,high,low,5,name.com,,,
 cdfe837e-11c8-454b-a13a-467ed0b3e6fb,lane.eco,available,64.99,,medium,low,4,name.com,,,
-aef9fa9f-7390-4747-9763-2f413611c4b3,terrible.eco,premium,64.99,,medium,low,8,name.com,,,
+aef9fa9f-7390-4747-9763-2f413611c4b3,terrible.eco,available,58.48,101.98,low,low,8,namecheap,,,22/09/2026 15:19
 26788d8d-b85e-4412-8ba4-bb47bb1b48c8,week.eco,available,64.99,,high,low,4,name.com,,,
 f8157650-7b10-4426-ad23-380da6d58bdc,flooring.eco,premium,9375,,high,low,8,name.com,,,
 204fba88-0975-417b-9bec-e19a0558c311,descend.eco,available,64.99,,high,low,7,name.com,,,
-51bc4dba-909c-4fe4-b3bc-1e3e99ce83e9,sensual.eco,premium,64.99,,medium,low,7,name.com,,,
+51bc4dba-909c-4fe4-b3bc-1e3e99ce83e9,sensual.eco,available,58.48,101.98,low,low,7,namecheap,,,22/09/2026 04:34
 a94306c0-e8f9-424c-be9b-f4fad7747a95,newyork.eco,premium,4375,,high,medium,8,name.com,,,
 3fc29567-e0e5-4a27-bc00-3276fd167791,chimney.eco,available,64.99,,high,low,7,name.com,,,
 ffe2b728-db25-45d0-855b-8ba201d12bcd,concealed.eco,available,69.99,113.99,medium,low,9,name.com,,,
@@ -872,7 +872,7 @@ ffe2b728-db25-45d0-855b-8ba201d12bcd,concealed.eco,available,69.99,113.99,medium
 3180dafd-d0a3-4b96-905c-426469068dfc,steppingstone.eco,available,72.98,101.98,low,low,14,namecheap,,,19/09/2026 03:31
 ef0e2ba9-9472-4e0e-a7f2-7c9e6d97d6ad,interior.eco,available,64.99,,medium,low,8,name.com,,,
 74cdb04c-4f2c-4af8-9afc-c0524e422b41,feelings.eco,available,64.99,,high,low,8,name.com,,,
-da6b4147-64ed-473a-815b-659d09ae6c57,twenty.eco,available,69.99,113.99,high,low,6,name.com,,,
+da6b4147-64ed-473a-815b-659d09ae6c57,twenty.eco,available,58.48,101.98,medium,low,6,namecheap,,,21/09/2026 12:24
 cd161fe5-69de-42d9-ab7f-77dc7eed2f42,deepdown.eco,available,64.99,,medium,low,9,name.com,,,
 2a6cca0d-4fbc-4807-8606-dec4706326cc,rain.eco,premium,4535.05,74.75,medium,low,4,namecheap,,,19/09/2026 07:28
 92e1e5b4-0484-4f84-97d2-9b9ab9988f2c,voter.eco,available,64.99,,medium,low,5,name.com,,,
@@ -881,7 +881,7 @@ bfc5ab4c-0e6f-4dd6-b25d-5cdb343ba515,directing.eco,available,69.99,113.99,medium
 ec33b189-edda-4ea5-a9f1-aa729d7a5063,inpublic.eco,available,72.98,101.98,low,low,9,namecheap,,,16/09/2026 13:11
 672b2a17-6fc0-4559-b1b0-00bdd1d5732b,lie.eco,available,64.99,,medium,low,3,name.com,,,
 8fd33179-6118-4f9a-8f86-66576c7d5f5a,beborn.eco,available,64.99,,high,low,7,name.com,,,
-b7118d91-c817-4e23-aebc-9a17f7b2bdf7,amazing.eco,premium,1875,,high,low,7,name.com,,,
+b7118d91-c817-4e23-aebc-9a17f7b2bdf7,amazing.eco,premium,1875,113.99,medium,low,7,name.com,,,22/09/2026 03:51
 ad97f2f2-f6b4-4b35-b143-a9a0cf893a46,decide.eco,premium,4375,,high,low,6,name.com,,,
 de3d1e18-4cbc-42dc-a685-ca809421d82c,clever.eco,premium,1875,,high,low,6,name.com,,,
 ada23fd7-8059-40f6-8ef1-eb8679d79eb3,granddad.eco,available,64.99,,high,low,8,name.com,,,
@@ -891,7 +891,7 @@ ada23fd7-8059-40f6-8ef1-eb8679d79eb3,granddad.eco,available,64.99,,high,low,8,na
 69142905-0ce5-47c9-acac-acad5970f502,mao.eco,available,64.99,,medium,low,3,name.com,,,
 2c5a968c-6330-4b83-8013-2b3efbd6e82a,oldlady.eco,available,64.99,,medium,low,8,name.com,,,
 5b035d10-89dc-4b9f-a7d1-0ae8fbc5bdc5,allnighter.eco,available,64.99,,high,low,11,name.com,,,
-39c92eb3-05fb-4908-8bf2-15f7bb0c5010,borderline.eco,premium,64.99,,medium,low,10,name.com,,,
+39c92eb3-05fb-4908-8bf2-15f7bb0c5010,borderline.eco,available,58.48,101.98,low,low,10,namecheap,,,23/09/2026 00:01
 23a24b2a-2b4c-4681-a9f4-df1c80939f99,fearful.eco,available,69.99,113.99,high,low,7,name.com,,,
 175230d6-b9d8-4c65-aea6-57d6429f91e4,strange.eco,available,64.99,,medium,low,7,name.com,,,
 37872246-d822-4e94-840a-37f2edbd0b36,inon.eco,available,64.99,,medium,low,5,name.com,,,
@@ -914,10 +914,10 @@ d4ca3cb6-1c3a-4427-a677-89800f6503dc,ever.eco,available,64.99,,high,medium,4,nam
 11d3a978-a67d-4203-a87a-46d023d38521,idiot.eco,available,58.48,101.98,low,low,5,namecheap,,,19/09/2026 09:51
 8205bea6-ed5e-42aa-9eac-a6d04a21daa5,satanic.eco,available,69.99,113.99,medium,low,7,name.com,,,
 d4260ca9-354b-48bb-ab42-f512b1ed58e8,modern.eco,premium,9375,,high,low,6,name.com,,,
-54aa97f7-5c9f-460e-89c4-4dd458cb569c,easy.eco,premium,9375,113.99,high,medium,4,name.com,,,
+54aa97f7-5c9f-460e-89c4-4dd458cb569c,easy.eco,premium,9735.05,74.75,medium,low,4,namecheap,,,23/09/2026 04:35
 ce32b77f-926f-4d62-a7be-63eed98292d7,crystal.eco,premium,4375,,high,low,7,name.com,,,
 164e96d5-350c-452b-849d-f439859b8f41,punter.eco,available,64.99,,medium,low,6,name.com,,,
-6332d356-9167-4e5b-bb9b-0d6591bf218a,expectant.eco,premium,64.99,,high,low,9,name.com,,,
+6332d356-9167-4e5b-bb9b-0d6591bf218a,expectant.eco,available,58.48,101.98,medium,low,9,namecheap,,,22/09/2026 06:48
 336c65fb-521c-41f1-a970-e14795574905,designed.eco,premium,625,113.99,medium,low,8,name.com,,,
 0d417fb1-bacc-443d-8fc9-98cea77b9914,slam.eco,available,64.99,,high,low,4,name.com,,,
 f8d4e301-e777-4146-9738-7256942e3c55,cleveland.eco,available,64.99,,medium,low,9,name.com,,,
@@ -927,22 +927,22 @@ f8d4e301-e777-4146-9738-7256942e3c55,cleveland.eco,available,64.99,,medium,low,9
 257554f2-1bb9-46fa-83a6-e2a7605d2730,barrier.eco,premium,4375,,medium,low,7,name.com,,,
 d001c496-72a3-4b8d-afa5-9bd8cb9b6efb,broad.eco,available,58.48,101.98,medium,low,5,namecheap,,,19/09/2026 06:03
 8035bfa7-5988-4d56-8a1c-72dc7644f994,lady.eco,premium,4375,,high,low,4,name.com,,,
-2611d65e-0c40-420a-9f66-145af858b317,deceased.eco,premium,64.99,,medium,low,8,name.com,,,
+2611d65e-0c40-420a-9f66-145af858b317,deceased.eco,available,74.99,113.99,low,low,8,name.com,,,22/09/2026 10:44
 278da9bf-1413-4388-ab5b-c032708a4e2c,surrounding.eco,available,64.99,,high,low,11,name.com,,,
 88ea5991-4833-4763-adad-f805ffec734f,roasted.eco,available,64.99,,medium,low,7,name.com,,,
-ea0c76a6-8945-4087-a8a7-7425f323d689,accused.eco,available,64.99,,medium,low,7,name.com,,,
+ea0c76a6-8945-4087-a8a7-7425f323d689,accused.eco,available,64.99,,low,low,7,name.com,,,
 44c9746c-8ac3-4aee-b8d0-a8ed88d406ee,checkin.eco,available,64.99,,high,low,8,name.com,,,
 fa503058-3505-400f-96d2-b1b8b68d83c2,wounded.eco,available,64.99,,medium,low,7,name.com,,,
-00c398fa-03e3-4496-a98a-7000c8fcac69,curative.eco,available,69.99,113.99,high,low,8,name.com,,,
+00c398fa-03e3-4496-a98a-7000c8fcac69,curative.eco,available,58.48,101.98,medium,low,8,namecheap,,,22/09/2026 02:19
 40b0e337-898a-4171-9db0-3885cb134916,sag.eco,available,64.99,,high,low,3,name.com,,,
 054c6df7-c58a-43f4-9e33-7dc2e2f77143,mon.eco,premium,9375,,high,low,3,name.com,,,
-eb5b69da-0234-4868-976b-d22773a04238,endearing.eco,available,69.99,113.99,high,low,9,name.com,,,
-1462db8b-53a4-4e48-b800-5285c5b05f68,dear.eco,premium,64.99,,high,low,4,name.com,,,
+eb5b69da-0234-4868-976b-d22773a04238,endearing.eco,available,58.48,101.98,medium,low,9,namecheap,,,21/09/2026 19:24
+1462db8b-53a4-4e48-b800-5285c5b05f68,dear.eco,available,58.48,101.98,medium,low,4,namecheap,,,22/09/2026 19:24
 633c867b-1666-4631-916a-4deffbb00d2c,alamo.eco,available,64.99,,medium,medium,5,name.com,,,
 687fcd6d-8d42-40d8-85dc-c39f1fbc17c5,here.eco,premium,4375,,high,medium,4,name.com,,,
 36dad41e-ac3d-4bf4-8995-25147c6136a3,widespread.eco,premium,64.99,,high,low,10,name.com,,,
 80110685-a2a5-48fb-a043-c83e514162f9,tvset.eco,available,64.99,,high,low,6,name.com,,,
-919464e6-f83a-4814-9dc8-1c55486a7a3e,caper.eco,premium,64.99,,high,low,5,name.com,,,
+919464e6-f83a-4814-9dc8-1c55486a7a3e,caper.eco,available,58.48,101.98,medium,low,5,namecheap,,,22/09/2026 06:32
 3cddbc9b-09ba-472a-8cbb-b88d8ba189db,reference.eco,premium,625,,high,low,9,name.com,,,
 d7d6ac21-8d15-4ab7-bb6e-387e10180525,elite.eco,premium,1875,113.99,high,medium,5,name.com,,,
 ffa1b366-a9d5-44e8-98b5-2711f1d49ac9,intheflesh.eco,available,64.99,,high,low,12,name.com,,,
@@ -952,12 +952,12 @@ ffa1b366-a9d5-44e8-98b5-2711f1d49ac9,intheflesh.eco,available,64.99,,high,low,12
 646015c3-95a4-4dd5-a49c-4642ea35b48d,polythene.eco,available,64.99,,high,low,9,name.com,,,
 56154fd7-9190-453f-8cb6-8c9e74e3282c,discbrake.eco,available,64.99,,high,low,10,name.com,,,
 98f9fc54-eee5-4a02-8ee0-22247a083593,object.eco,available,58.48,101.98,medium,low,6,namecheap,,,19/09/2026 05:21
-1ecbc80f-3766-41f9-9148-fb7c9038a261,battered.eco,premium,64.99,,medium,low,8,name.com,,,
+1ecbc80f-3766-41f9-9148-fb7c9038a261,battered.eco,available,58.48,101.98,low,low,8,namecheap,,,22/09/2026 18:12
 01deee97-0bab-42df-a9c6-ba04f6838ac3,befull.eco,available,64.99,,high,low,7,name.com,,,
 db4cd44e-7b5c-4a91-9431-7e79bfcf5152,zen.eco,premium,4375,,high,medium,3,name.com,,,
-4bf930d0-5514-479c-a29d-ee9886b47ddb,amendable.eco,premium,64.99,,high,low,9,name.com,,,
+4bf930d0-5514-479c-a29d-ee9886b47ddb,amendable.eco,available,58.48,101.98,low,low,9,namecheap,,,22/09/2026 04:07
 c679bb42-f020-47f1-a227-c2558689aefc,farmer.eco,premium,4375,113.99,medium,low,6,name.com,,,08/09/2026 06:02
-01167f4b-14d2-4ee7-9faa-8ad6e8906026,single.eco,available,69.99,113.99,high,low,6,name.com,,,
+01167f4b-14d2-4ee7-9faa-8ad6e8906026,single.eco,available,58.48,101.98,medium,low,6,namecheap,,,21/09/2026 10:43
 57f03da8-a3cb-4378-ab9b-7ffa84214e02,potential.eco,available,64.99,,high,low,9,name.com,,,
 bf79837b-13af-487d-a9cf-5d3d65992969,overhead.eco,available,64.99,,high,low,8,name.com,,,
 20069457-7ed8-46bb-a645-47db356f586c,characteristic.eco,available,64.99,,medium,low,14,name.com,,,
@@ -974,7 +974,7 @@ f4541c78-b879-41b6-b057-3ae2c7748552,primeminister.eco,available,64.99,,medium,l
 761b18a4-b34c-459d-9938-0568072a9b79,family.eco,premium,4375,,high,medium,6,name.com,,,
 514a0ee2-fdf1-4eb4-bf6e-170e32091c1d,aspirin.eco,available,64.99,,high,medium,7,name.com,,,
 f4450540-c1bf-4d90-9a4a-71e84c9174fc,dissent.eco,available,64.99,,medium,low,7,name.com,,,
-8b08e330-2983-4cc9-90a3-d58d17d2f2e7,artistic.eco,premium,64.99,,high,low,8,name.com,,,
+8b08e330-2983-4cc9-90a3-d58d17d2f2e7,artistic.eco,available,58.48,101.98,medium,low,8,namecheap,,,22/09/2026 09:09
 4f9ad0e1-65fd-4a41-8218-3b8df93d53d1,yesterday.eco,available,64.99,,high,low,9,name.com,,,
 8032b56d-ee0c-4a08-a802-e1fa59808185,bringback.eco,available,64.99,,high,low,10,name.com,,,
 699b9032-6b78-45b4-b1f8-785e7bde6723,undoubtedly.eco,available,64.99,,medium,low,11,name.com,,,
@@ -987,15 +987,15 @@ dfef1f40-cd83-4f3b-9f38-fbe784822946,ivy.eco,premium,1875,,high,low,3,name.com,,
 cf2af939-f369-4cad-9f07-56e0d942cda7,opinion.eco,premium,9375,,high,low,7,name.com,,,
 14e279f8-a76c-401e-a4d3-1128b7807550,bulky.eco,available,64.99,,medium,low,5,name.com,,,
 4b703a6f-28cd-4771-8fa3-edcbb4e030d3,omit.eco,available,64.99,,high,low,4,name.com,,,
-2d0a8f0b-28d0-4fa4-ab34-1b3d76180e99,close.eco,available,69.99,113.99,high,low,5,name.com,,,
+2d0a8f0b-28d0-4fa4-ab34-1b3d76180e99,close.eco,available,58.48,101.98,low,low,5,namecheap,,,21/09/2026 23:48
 14e137c7-f8de-425d-a5d2-7a687aa60a04,realized.eco,available,69.99,113.99,high,low,8,name.com,,,
 1e160944-5d9a-4007-a6e7-97f5191b426e,overall.eco,available,64.99,,high,low,7,name.com,,,
-d1e9366a-849b-416e-88cb-4fb255cb687e,nimble.eco,available,69.99,113.99,high,low,6,name.com,,,
+d1e9366a-849b-416e-88cb-4fb255cb687e,nimble.eco,available,58.48,101.98,medium,low,6,namecheap,,,21/09/2026 23:05
 4a6fa027-0254-4a59-967e-4bc3b59c3c36,european.eco,premium,64.99,,high,low,8,name.com,,,
 26d0b10d-7d46-466d-9016-52c5df4c647d,insulting.eco,available,69.99,113.99,high,low,9,name.com,,,
 25d69499-342c-4346-bfee-88d4bac69815,trimback.eco,available,64.99,,high,low,9,name.com,,,
 9cc7e865-ad61-4e51-9dc1-8fecc34b7a16,drseuss.eco,available,64.99,,high,low,9,name.com,,,
 74e26be4-470b-4480-b96f-c3f66584e150,featured.eco,premium,9375,,medium,low,8,name.com,,,
 43c25186-92c9-4dc8-8286-4f256d1dec9e,altruism.eco,available,64.99,,high,low,8,name.com,,,
-84b0dcb3-8a63-4f67-89b4-dfe88cace2b7,aide.eco,premium,64.99,,high,low,4,name.com,,,
+84b0dcb3-8a63-4f67-89b4-dfe88cace2b7,aide.eco,available,58.48,101.98,medium,low,4,namecheap,,,22/09/2026 14:20
 16453609-213b-424d-9704-d4a00890e2af,noticed.eco,available,64.99,,high,low,7,name.com,,,
