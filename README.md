@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .eco one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,458 domains · **Median ask:** $265.29 · **High-demand under $2,500:** 15
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/eco`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| ago.eco     | available | $58.48    | $101.98       | low            | low    | 3      | namecheap   |
-| diamond.eco | resell    | —         | —             | medium         | low    | 7      | Porkbun LLC |
-| all.eco     | premium   | $4,535.05 | $74.75        | medium         | low    | 3      | namecheap   |
-| ale.eco     | available | $64.99    | —             | medium         | low    | 3      | name.com    |
-| bed.eco     | premium   | $9,375    | —             | high           | low    | 3      | name.com    |
-| boy.eco     | available | $64.99    | —             | medium         | low    | 3      | name.com    |
-| bee.eco     | premium   | $9,375    | —             | high           | medium | 3      | name.com    |
-| cry.eco     | available | $64.99    | —             | high           | low    | 3      | name.com    |
-| big.eco     | premium   | $4,535.05 | $74.75        | medium         | low    | 3      | namecheap   |
-| dye.eco     | available | $64.99    | —             | medium         | low    | 3      | name.com    |
-| bio.eco     | premium   | $9,375    | —             | high           | medium | 3      | name.com    |
-| err.eco     | available | $64.99    | —             | medium         | low    | 3      | name.com    |
-| box.eco     | premium   | $9,735.05 | $74.75        | low            | low    | 3      | namecheap   |
-| ike.eco     | available | $64.99    | —             | high           | low    | 3      | name.com    |
-| bud.eco     | premium   | $1,875    | —             | high           | low    | 3      | name.com    |
-| let.eco     | available | $64.99    | —             | high           | low    | 3      | name.com    |
-| cod.eco     | premium   | $4,375    | —             | medium         | low    | 3      | name.com    |
-| lie.eco     | available | $64.99    | —             | medium         | low    | 3      | name.com    |
-| die.eco     | premium   | $625      | —             | medium         | low    | 3      | name.com    |
-| mao.eco     | available | $64.99    | —             | medium         | low    | 3      | name.com    |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| desert.eco   | premium   | $625      | $113.99       | high           | low    | 6      | name.com    |
+| drive.eco    | premium   | $9,375    | $113.99       | high           | low    | 5      | name.com    |
+| separate.eco | available | $69.99    | $113.99       | high           | low    | 8      | name.com    |
+| repeat.eco   | available | $69.99    | $113.99       | high           | low    | 6      | name.com    |
+| feel.eco     | premium   | $4,375    | —             | high           | low    | 4      | name.com    |
+| thank.eco    | available | $64.99    | —             | high           | low    | 5      | name.com    |
+| ago.eco      | available | $58.48    | $101.98       | low            | low    | 3      | namecheap   |
+| diamond.eco  | resell    | —         | —             | medium         | low    | 7      | Porkbun LLC |
+| all.eco      | premium   | $4,535.05 | $74.75        | medium         | low    | 3      | namecheap   |
+| ale.eco      | available | $64.99    | —             | medium         | low    | 3      | name.com    |
+| bed.eco      | premium   | $9,375    | —             | high           | low    | 3      | name.com    |
+| boy.eco      | available | $64.99    | —             | medium         | low    | 3      | name.com    |
+| bee.eco      | premium   | $9,375    | —             | high           | medium | 3      | name.com    |
+| cry.eco      | available | $64.99    | —             | high           | low    | 3      | name.com    |
+| big.eco      | premium   | $4,535.05 | $74.75        | medium         | low    | 3      | namecheap   |
+| dye.eco      | available | $64.99    | —             | medium         | low    | 3      | name.com    |
+| bio.eco      | premium   | $9,375    | —             | high           | medium | 3      | name.com    |
+| err.eco      | available | $64.99    | —             | medium         | low    | 3      | name.com    |
+| box.eco      | premium   | $9,735.05 | $74.75        | low            | low    | 3      | namecheap   |
+| ike.eco      | available | $64.99    | —             | high           | low    | 3      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ECO One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ECO One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
