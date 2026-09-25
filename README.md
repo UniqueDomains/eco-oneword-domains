@@ -1,10 +1,10 @@
-# Available .ECO One-Word Domains (31,458)
+# Available .ECO One-Word Domains (32,444)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C458%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C444%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .eco one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,458 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,444 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,458 domains · **Median ask:** $265.29 · **High-demand under $2,500:** 15
+**Public extract:** 1,000 rows · **Live catalog:** 32,444 domains · **Median ask:** $262.83 · **High-demand under $2,500:** 15
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/eco`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| desert.eco   | premium   | $625      | $113.99       | high           | low    | 6      | name.com    |
-| drive.eco    | premium   | $9,375    | $113.99       | high           | low    | 5      | name.com    |
-| separate.eco | available | $69.99    | $113.99       | high           | low    | 8      | name.com    |
-| repeat.eco   | available | $69.99    | $113.99       | high           | low    | 6      | name.com    |
-| feel.eco     | premium   | $4,375    | —             | high           | low    | 4      | name.com    |
-| thank.eco    | available | $64.99    | —             | high           | low    | 5      | name.com    |
-| ago.eco      | available | $58.48    | $101.98       | low            | low    | 3      | namecheap   |
-| diamond.eco  | resell    | —         | —             | medium         | low    | 7      | Porkbun LLC |
-| all.eco      | premium   | $4,535.05 | $74.75        | medium         | low    | 3      | namecheap   |
-| ale.eco      | available | $64.99    | —             | medium         | low    | 3      | name.com    |
-| bed.eco      | premium   | $9,375    | —             | high           | low    | 3      | name.com    |
-| boy.eco      | available | $64.99    | —             | medium         | low    | 3      | name.com    |
-| bee.eco      | premium   | $9,375    | —             | high           | medium | 3      | name.com    |
-| cry.eco      | available | $64.99    | —             | high           | low    | 3      | name.com    |
-| big.eco      | premium   | $4,535.05 | $74.75        | medium         | low    | 3      | namecheap   |
-| dye.eco      | available | $64.99    | —             | medium         | low    | 3      | name.com    |
-| bio.eco      | premium   | $9,375    | —             | high           | medium | 3      | name.com    |
-| err.eco      | available | $64.99    | —             | medium         | low    | 3      | name.com    |
-| box.eco      | premium   | $9,735.05 | $74.75        | low            | low    | 3      | namecheap   |
-| ike.eco      | available | $64.99    | —             | high           | low    | 3      | name.com    |
+| domain  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ale.eco | available | $64.99    | —             | high           | low    | 3      | name.com  |
+| ask.eco | premium   | $4,375    | —             | high           | medium | 3      | name.com  |
+| atp.eco | available | $64.99    | —             | high           | low    | 3      | name.com  |
+| bar.eco | premium   | $9,375    | —             | high           | low    | 3      | name.com  |
+| boy.eco | available | $64.99    | —             | high           | low    | 3      | name.com  |
+| bed.eco | premium   | $9,375    | —             | high           | low    | 3      | name.com  |
+| bro.eco | available | $64.99    | —             | high           | low    | 3      | name.com  |
+| bee.eco | premium   | $9,375    | —             | high           | medium | 3      | name.com  |
+| cot.eco | available | $64.99    | —             | high           | low    | 3      | name.com  |
+| bio.eco | premium   | $9,375    | —             | high           | medium | 3      | name.com  |
+| cry.eco | available | $64.99    | —             | high           | low    | 3      | name.com  |
+| bit.eco | premium   | $9,375    | —             | high           | medium | 3      | name.com  |
+| dye.eco | available | $64.99    | —             | high           | low    | 3      | name.com  |
+| bud.eco | premium   | $1,875    | —             | high           | low    | 3      | name.com  |
+| eid.eco | available | $64.99    | —             | high           | low    | 3      | name.com  |
+| day.eco | premium   | $4,375    | —             | high           | low    | 3      | name.com  |
+| err.eco | available | $64.99    | —             | high           | low    | 3      | name.com  |
+| die.eco | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| feb.eco | available | $64.99    | —             | high           | low    | 3      | name.com  |
+| ham.eco | premium   | $625      | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,458 live domains                        |
+| 1,000-row public sample | 32,444 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 15 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ECO One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ECO One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
