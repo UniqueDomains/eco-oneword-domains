@@ -1,10 +1,10 @@
-# Available .ECO One-Word Domains (28,444)
+# Available .ECO One-Word Domains (30,855)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C444%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C855%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .eco one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **28,444 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **30,855 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 28,444 domains · **Median ask:** $330.42 · **High-demand under $2,500:** 54
+**Public extract:** 1,000 rows · **Live catalog:** 30,855 domains · **Median ask:** $312.74 · **High-demand under $2,500:** 63
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/eco`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | ala.eco  | available | $59.73    | $59.73        | high           | low    | 3      | porkbun   |
-| iii.eco  | premium   | $1,875    | $113.99       | high           | low    | 3      | name.com  |
+| bom.eco  | premium   | $517.70   | $59.71        | high           | medium | 3      | spaceship |
 | aps.eco  | available | $72.98    | $101.98       | high           | low    | 3      | namecheap |
-| sat.eco  | premium   | $4,375    | —             | high           | low    | 3      | name.com  |
-| bel.eco  | available | $58.48    | $101.98       | high           | low    | 3      | namecheap |
-| echo.eco | premium   | $1,552.70 | $59.71        | high           | medium | 4      | spaceship |
+| iii.eco  | premium   | $1,875    | $113.99       | high           | low    | 3      | name.com  |
 | bun.eco  | available | $58.48    | $101.98       | high           | low    | 3      | namecheap |
-| eggs.eco | premium   | $550      | $61.74        | high           | low    | 4      | dynadot   |
+| sat.eco  | premium   | $3,622.70 | $59.71        | high           | low    | 3      | spaceship |
 | ccd.eco  | available | $47.81    | $59.71        | high           | low    | 3      | spaceship |
-| elle.eco | premium   | $165      | $61.74        | high           | low    | 4      | dynadot   |
+| echo.eco | premium   | $1,552.70 | $59.71        | high           | medium | 4      | spaceship |
 | cpr.eco  | available | $58.48    | $101.98       | high           | low    | 3      | namecheap |
-| exit.eco | premium   | $550      | $61.74        | high           | low    | 4      | dynadot   |
+| elle.eco | premium   | $165      | $61.74        | high           | low    | 4      | dynadot   |
 | deo.eco  | available | $72.98    | $101.98       | high           | low    | 3      | namecheap |
 | kiwi.eco | premium   | $650      | $74.75        | high           | high   | 4      | namecheap |
 | doi.eco  | available | $109.99   | $119.99       | high           | low    | 3      | godaddy   |
-| laws.eco | premium   | $4,375    | —             | high           | low    | 4      | name.com  |
-| doj.eco  | available | $47.81    | $59.71        | high           | low    | 3      | spaceship |
-| page.eco | premium   | $4,375    | —             | high           | low    | 4      | name.com  |
+| laws.eco | premium   | $3,622.70 | $59.71        | high           | low    | 4      | spaceship |
+| doj.eco  | available | $47.81    | $59.71        | medium         | low    | 3      | spaceship |
+| page.eco | premium   | $3,850    | $61.74        | high           | medium | 4      | dynadot   |
 | fad.eco  | available | $58.48    | $101.98       | high           | low    | 3      | namecheap |
 | race.eco | premium   | $7,750.80 | $59.71        | high           | low    | 4      | spaceship |
+| fha.eco  | available | $47.81    | $59.71        | medium         | low    | 3      | spaceship |
+| safe.eco | premium   | $7,750.80 | $59.71        | high           | medium | 4      | spaceship |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 28,444 live domains                        |
+| 1,000-row public sample | 30,855 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 54 high-demand names under $2,500          |
+| Basic exported fields   | 63 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ECO One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ECO One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
